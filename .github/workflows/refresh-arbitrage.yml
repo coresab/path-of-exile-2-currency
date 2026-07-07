@@ -1,0 +1,38 @@
+name: Refresh arbitrage CSV
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh CSV
+        run: |
+          python -m poe2_currency refresh \
+            --direct-divine-usd 0.05 \
+            --scout-kind currency \
+            --min-divine 0.01 \
+            --limit 0 \
+            --out exports/arbitrage.csv
+
+      - name: Commit updated CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exports/arbitrage.csv
+          git diff --cached --quiet || git commit -m "Refresh arbitrage CSV"
+          git push
