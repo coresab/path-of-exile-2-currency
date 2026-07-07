@@ -125,7 +125,13 @@ def write_arbitrage_report(
     out: Path,
 ) -> list[dict[str, object]]:
     scout_kind_filter = None if scout_kind == "all" else scout_kind
-    candidates = find_candidates(cash_items, scout_items, min_divine_price=min_divine_price, scout_kind=scout_kind_filter)
+    candidates = find_candidates(
+        cash_items,
+        scout_items,
+        min_divine_price=min_divine_price,
+        scout_kind=scout_kind_filter,
+        direct_divine_usd=direct_divine_usd,
+    )
     selected_candidates = candidates if limit == 0 else candidates[:limit]
     rows = [
         candidate.to_row(rank=index, direct_divine_usd=direct_divine_usd)

@@ -57,12 +57,16 @@ def find_candidates(
     scout_items: list[ScoutItemPrice],
     min_divine_price: float = 0.0,
     scout_kind: str | None = None,
+    direct_divine_usd: float | None = None,
 ) -> list[ArbitrageCandidate]:
     if scout_kind:
         scout_items = [item for item in scout_items if item.kind == scout_kind]
     all_scout_keys = {item.key for item in scout_items}
     scout_by_key = {item.key: item for item in scout_items if item.divine_price >= min_divine_price}
     candidates: list[ArbitrageCandidate] = []
+
+    if direct_divine_usd is not None and (scout_kind is None or scout_kind == "currency"):
+        candidates.append(direct_divine_candidate(direct_divine_usd))
 
     for cash_item in cash_items:
         scout_item = scout_by_key.get(cash_item.key)
@@ -77,6 +81,33 @@ def find_candidates(
             candidates.append(ArbitrageCandidate(cash_item, fallback))
 
     return sorted(candidates, key=lambda candidate: candidate.usd_per_divine)
+
+
+def direct_divine_candidate(direct_divine_usd: float) -> ArbitrageCandidate:
+    return ArbitrageCandidate(
+        cash_item=CashItemPrice(
+            source="direct",
+            server="Runes of Aldur SC",
+            category_id=0,
+            category="Direct Divine Baseline",
+            goods_no="direct-divine",
+            title="Divine Orb",
+            price_usd=direct_divine_usd,
+            stock=None,
+        ),
+        scout_item=ScoutItemPrice(
+            source="baseline",
+            league="Runes of Aldur",
+            item_id=0,
+            api_id="divine",
+            name="Divine Orb",
+            category="currency",
+            category_label="Currency",
+            kind="currency",
+            divine_price=1.0,
+            quantity=None,
+        ),
+    )
 
 
 def _best_substring_match(

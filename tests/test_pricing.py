@@ -2,7 +2,7 @@ from datetime import datetime, timezone
 from unittest import TestCase, main
 
 from poe2_currency.models import CurrencyRate, MarketSnapshot
-from poe2_currency.arbitrage import ArbitrageCandidate, find_candidates
+from poe2_currency.arbitrage import ArbitrageCandidate, direct_divine_candidate, find_candidates
 from poe2_currency.models import CashItemPrice, ScoutItemPrice
 from poe2_currency.pricing import CurrencyAmount, PriceBook, parse_currency_amount
 
@@ -94,6 +94,13 @@ class PricingTests(TestCase):
 
         self.assertEqual(len(candidates), 1)
         self.assertEqual(candidates[0].scout_item.kind, "currency")
+
+    def test_direct_divine_candidate_is_baseline(self):
+        row = direct_divine_candidate(0.05).to_row(rank=1, direct_divine_usd=0.05)
+
+        self.assertEqual(row["poecurrency_title"], "Divine Orb")
+        self.assertEqual(row["arbitrage_multiple"], 1.0)
+        self.assertEqual(row["price_per_divine_usd"], 0.05)
 
 
 if __name__ == "__main__":
