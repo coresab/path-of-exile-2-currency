@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-arbitrage-csv
+  cancel-in-progress: true
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -35,4 +39,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add exports/arbitrage.csv
           git diff --cached --quiet || git commit -m "Refresh arbitrage CSV"
+          git pull --rebase
           git push
