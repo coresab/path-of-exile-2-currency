@@ -38,10 +38,14 @@ jobs:
 
       - name: Commit updated CSV
         run: |
+          cp exports/arbitrage.csv /tmp/arbitrage.csv
+          git fetch origin main
+          git reset --hard origin/main
+          mkdir -p exports
+          cp /tmp/arbitrage.csv exports/arbitrage.csv
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout main
           git add exports/arbitrage.csv
-          git diff --cached --quiet || git commit -m "Refresh arbitrage CSV"
-          git pull --rebase origin main
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh arbitrage CSV"
           git push origin HEAD:main
