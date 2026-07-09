@@ -18,6 +18,9 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,7 +40,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout main
           git add exports/arbitrage.csv
           git diff --cached --quiet || git commit -m "Refresh arbitrage CSV"
-          git pull --rebase
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
