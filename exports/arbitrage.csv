@@ -1,354 +1,347 @@
 arbitrage_rank,arbitrage_multiple,poecurrency_title,poecurrency_category,poecurrency_price_usd,poecurrency_stock,listing_quantity,scout_name,scout_category,scout_kind,scout_divine_price,listing_divine_value,scout_quantity,price_per_divine_usd,usd_per_divine,direct_divine_price_usd
-1,8.4706,Warding Rune of Stability,Socketable / Runes,0.01,-1,1.0,Warding Rune of Stability,Runes,currency,1.694121,1.694121,6,0.005903,0.005903,0.05
-2,1.973,Refined Sibilant Catalyst,Crafted Currency / Breach Catalysts,0.165,-1,1.0,Refined Sibilant Catalyst,Breach,currency,6.510859,6.510859,411,0.025342,0.025342,0.05
-3,1.7593,Emergent Vigour,Socketable / Runes,0.24,-1,1.0,Emergent Vigour,Expedition Coinage & Artifacts,currency,8.444445,8.444445,9,0.028421,0.028421,0.05
-4,1.7084,Omen of Chaotic Rarity,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Chaotic Rarity,Ritual Omens,currency,0.375847,0.375847,5317,0.029267,0.029267,0.05
-5,1.6634,Refined Uul-Netol's Catalyst,Crafted Currency / Breach Catalysts,0.0055,-1,1.0,Refined Uul-Netol's Catalyst,Breach,currency,0.182978,0.182978,267,0.030058,0.030058,0.05
-6,1.5659,Rune of Consistency,Socketable / Runes,0.01,-1,1.0,Rune of Consistency,Runes,currency,0.313178,0.313178,4,0.031931,0.031931,0.05
-7,1.4881,Kurgal's Gaze,Socketable / Gaze,2.94,-1,1.0,Kurgal's Gaze,Abyssal Bones,currency,87.5,87.5,12,0.0336,0.0336,0.05
-8,1.4591,Essence of Delirium,Crafted Currency / Essences,0.022,-1,1.0,Essence of Delirium,Essences,currency,0.642016,0.642016,73,0.034267,0.034267,0.05
-9,1.3041,idol of Maxarius,Socketable / Idol,0.01,-1,1.0,Idol of Maxarius,Idols,currency,0.260819,0.260819,8,0.038341,0.038341,0.05
-10,1.0217,Uhtred's Augury,Skill Gems & Support Gems / Lineage Support Gems,4.521,-1,1.0,Uhtred's Augury,Lineage Support Gems,currency,92.38095,92.38095,21,0.048939,0.048939,0.05
-11,1.0,Divine Orb,Direct Divine Baseline,0.05,,1.0,Divine Orb,Currency,currency,1.0,1.0,,0.05,0.05,0.05
-12,0.9626,Zarokh's Refrain,Skill Gems & Support Gems / Lineage Support Gems,0.0363,-1,1.0,Zarokh's Refrain,Lineage Support Gems,currency,0.698836,0.698836,5,0.051943,0.051943,0.05
-13,0.9589,Lesser Essence of Ruin,Crafted Currency / Essences,0.055,-1,1.0,Lesser Essence of Ruin,Essences,currency,1.054844,1.054844,1,0.05214,0.05214,0.05
-14,0.9523,Refined Reaver Catalyst,Crafted Currency / Breach Catalysts,0.22,-1,1.0,Refined Reaver Catalyst,Breach,currency,4.190327,4.190327,721,0.052502,0.052502,0.05
-15,0.9253,Uul-Netol's Embrace,Skill Gems & Support Gems / Lineage Support Gems,32.99,-1,1.0,Uul-Netol's Embrace,Lineage Support Gems,currency,610.5,610.5,8,0.054038,0.054038,0.05
-16,0.92,Carved Majesty,Socketable / Runes,9.42,-1,1.0,Carved Majesty,Expedition Coinage & Artifacts,currency,173.33333,173.33333,3,0.054346,0.054346,0.05
-17,0.8841,Lesser Rebirth Rune,Socketable / Runes,0.03,-1,1.0,Lesser Rebirth Rune,Runes,currency,0.530444,0.530444,2,0.056556,0.056556,0.05
-18,0.8745,Essence of Grounding,Crafted Currency / Essences,0.055,-1,1.0,Essence of Grounding,Essences,currency,0.961966,0.961966,1,0.057175,0.057175,0.05
-19,0.8743,Faded Crisis Fragment,Keys ＆ Maps / Pinnacle Boss Keys,0.495,-1,1.0,Faded Crisis Fragment,Fragments,currency,8.655824,8.655824,516,0.057187,0.057187,0.05
-20,0.8354,Refined Tul's Catalyst,Crafted Currency / Breach Catalysts,0.011,-1,1.0,Refined Tul's Catalyst,Breach,currency,0.183797,0.183797,395,0.059849,0.059849,0.05
-21,0.8163,Refined Carapace Catalyst,Crafted Currency / Breach Catalysts,0.011,-1,1.0,Refined Carapace Catalyst,Breach,currency,0.179583,0.179583,797,0.061253,0.061253,0.05
-22,0.801,Lesser Essence of Grounding,Crafted Currency / Essences,0.033,-1,1.0,Lesser Essence of Grounding,Essences,currency,0.528673,0.528673,2,0.06242,0.06242,0.05
-23,0.7932,Esh's Radiance,Skill Gems & Support Gems / Lineage Support Gems,7.535,-1,1.0,Esh's Radiance,Lineage Support Gems,currency,119.53846,119.53846,13,0.063034,0.063034,0.05
-24,0.7625,Uhtred's Exodus,Skill Gems & Support Gems / Lineage Support Gems,19.58,-1,1.0,Uhtred's Exodus,Lineage Support Gems,currency,298.6,298.6,5,0.065573,0.065573,0.05
-25,0.7469,Refined Adaptive Catalyst,Crafted Currency / Breach Catalysts,0.011,-1,1.0,Refined Adaptive Catalyst,Breach,currency,0.16432,0.16432,720,0.066943,0.066943,0.05
-26,0.7362,Xoph's Pyre,Skill Gems & Support Gems / Lineage Support Gems,4.521,-1,1.0,Xoph's Pyre,Lineage Support Gems,currency,66.57143,66.57143,7,0.067912,0.067912,0.05
-27,0.7137,Greater Essence of Alacrity,Crafted Currency / Essences,0.0011,-1,1.0,Greater Essence of Alacrity,Essences,currency,0.0157,0.0157,66,0.070062,0.070062,0.05
-28,0.7093,Omen of Chaotic Quantity,Crafted Currency / Ritual Omens,0.044,-1,1.0,Omen of Chaotic Quantity,Ritual Omens,currency,0.624188,0.624188,5378,0.070492,0.070492,0.05
-29,0.7087,Ancient Rune of Detonation,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Detonation,Runes,currency,0.283486,0.283486,4,0.07055,0.07055,0.05
-30,0.7056,Emergent Possibility,Socketable / Runes,2.48,-1,1.0,Emergent Possibility,Expedition Coinage & Artifacts,currency,35.0,35.0,3,0.070857,0.070857,0.05
-31,0.6603,Ancient Concentrated Liquid Isolation,Crafted Currency / Distilled Items,0.011,-1,1.0,Ancient Concentrated Liquid Isolation,Delirium,currency,0.145265,0.145265,10,0.075724,0.075724,0.05
-32,0.6303,Essence of Enhancement,Crafted Currency / Essences,0.033,-1,1.0,Essence of Enhancement,Essences,currency,0.416006,0.416006,1,0.079326,0.079326,0.05
-33,0.6178,Victorious Fate,Keys ＆ Maps / Pinnacle Boss Keys,0.517,-1,1.0,Victorious Fate,Fragments,currency,6.387593,6.387593,185,0.080938,0.080938,0.05
-34,0.6151,Lesser Resolve Rune,Socketable / Runes,0.03,-1,1.0,Lesser Resolve Rune,Runes,currency,0.369075,0.369075,14,0.081284,0.081284,0.05
-35,0.5979,Deadly Fate,Keys ＆ Maps / Pinnacle Boss Keys,0.55,-1,1.0,Deadly Fate,Fragments,currency,6.576948,6.576948,207,0.083625,0.083625,0.05
-36,0.593,Ancient Rune of Retaliation,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Retaliation,Runes,currency,0.23719,0.23719,1,0.08432,0.08432,0.05
-37,0.593,Thane Leld's Rune of Spring,Socketable / Runes,0.01,-1,1.0,Thane Leld's Rune of Spring,Runes,currency,0.118595,0.118595,1,0.08432,0.08432,0.05
-38,0.5897,Idol of Alira,Socketable / Idol,0.01,-1,1.0,Idol of Alira,Ritual Omens,currency,0.117949,0.117949,1,0.084782,0.084782,0.05
-39,0.5769,Greater Ward Rune,Socketable / Runes,0.01,-1,1.0,Greater Ward Rune,Runes,currency,0.115376,0.115376,20,0.086673,0.086673,0.05
-40,0.5534,Omen of Chaotic Monsters,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Chaotic Monsters,Ritual Omens,currency,0.243502,0.243502,4034,0.090349,0.090349,0.05
-41,0.5514,Cowardly Fate,Keys ＆ Maps / Pinnacle Boss Keys,0.583,-1,1.0,Cowardly Fate,Fragments,currency,6.429049,6.429049,252,0.090682,0.090682,0.05
-42,0.5475,Uhtred's Omen,Skill Gems & Support Gems / Lineage Support Gems,1.507,-1,1.0,Uhtred's Omen,Lineage Support Gems,currency,16.502533,16.502533,40,0.091319,0.091319,0.05
-43,0.546,Perfect Essence of the Infinite,Crafted Currency / Essences,0.0033,-1,1.0,Perfect Essence of the Infinite,Essences,currency,0.036038,0.036038,322,0.091571,0.091571,0.05
-44,0.5409,Warding Rune of Protection,Socketable / Runes,0.01,-1,1.0,Warding Rune of Protection,Runes,currency,0.108189,0.108189,4,0.09243,0.09243,0.05
-45,0.5356,Storm Rune,Socketable / Runes,0.02,-1,1.0,Storm Rune,Runes,currency,0.214252,0.214252,14,0.093348,0.093348,0.05
-46,0.5106,Courtesan Mannan's Rune of Cruelty,Socketable / Runes,0.01,-1,1.0,Courtesan Mannan's Rune of Cruelty,Runes,currency,0.102129,0.102129,6,0.097915,0.097915,0.05
-47,0.5092,Atalui's Bloodletting,Skill Gems & Support Gems / Lineage Support Gems,0.253,-1,1.0,Atalui's Bloodletting,Lineage Support Gems,currency,2.576545,2.576545,30,0.098194,0.098194,0.05
-48,0.5076,Essence of Alacrity,Crafted Currency / Essences,0.033,-1,1.0,Essence of Alacrity,Essences,currency,0.335038,0.335038,1,0.098496,0.098496,0.05
-49,0.5059,Uhtred's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Uhtred's Saga,Expedition Coinage & Artifacts,currency,1.112924,1.112924,435,0.098839,0.098839,0.05
-50,0.4926,Omen of Dextral Annulment,Crafted Currency / Ritual Omens,1.177,-1,1.0,Omen of Dextral Annulment,Ritual Omens,currency,11.59672,11.59672,507,0.101494,0.101494,0.05
-51,0.4788,Dialla's Desire,Skill Gems & Support Gems / Lineage Support Gems,31.636,-1,1.0,Dialla's Desire,Lineage Support Gems,currency,302.94446,302.94446,36,0.104428,0.104428,0.05
-52,0.4696,Atziri's Allure,Skill Gems & Support Gems / Lineage Support Gems,0.1331,-1,1.0,Atziri's Allure,Lineage Support Gems,currency,1.25,1.25,4,0.10648,0.10648,0.05
-53,0.4546,Omen of Dextral Erasure,Crafted Currency / Ritual Omens,1.177,-1,1.0,Omen of Dextral Erasure,Ritual Omens,currency,10.702024,10.702024,421,0.109979,0.109979,0.05
-54,0.4483,Omen of Dextral Exaltation,Crafted Currency / Ritual Omens,0.0025,-1,1.0,Omen of Dextral Exaltation,Ritual Omens,currency,0.022683,0.022683,631,0.111537,0.111537,0.05
-55,0.4431,Omen of Answered Prayers,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Answered Prayers,Ritual Omens,currency,0.194957,0.194957,27,0.112846,0.112846,0.05
-56,0.4387,Warding Rune of Reinforcement,Socketable / Runes,0.02,-1,1.0,Warding Rune of Reinforcement,Runes,currency,0.175469,0.175469,53,0.11398,0.11398,0.05
-57,0.4383,Omen of Whittling,Crafted Currency / Ritual Omens,1.21,-1,1.0,Omen of Whittling,Ritual Omens,currency,10.606123,10.606123,2580,0.114085,0.114085,0.05
-58,0.4295,Iron Rune,Socketable / Runes,0.03,-1,1.0,Iron Rune,Runes,currency,0.257706,0.257706,37,0.116412,0.116412,0.05
-59,0.4098,Fenumus' Rune of Spinning,Socketable / Runes,0.01,-1,1.0,Fenumus' Rune of Spinning,Runes,currency,0.081965,0.081965,18,0.122003,0.122003,0.05
-60,0.4084,Omen of Sinistral Annulment,Crafted Currency / Ritual Omens,1.837,-1,1.0,Omen of Sinistral Annulment,Ritual Omens,currency,15.00395,15.00395,622,0.122434,0.122434,0.05
-61,0.4078,Bear idol,Socketable / Idol,0.01,-1,1.0,Bear Idol,Idols,currency,0.081557,0.081557,15,0.122613,0.122613,0.05
-62,0.3995,Idol of the Sycophant,Socketable / Idol,0.01,-1,1.0,Idol of the Sycophant,Ritual Omens,currency,0.079892,0.079892,7,0.125168,0.125168,0.05
-63,0.394,Essence of Horror,Crafted Currency / Essences,0.077,-1,1.0,Essence of Horror,Essences,currency,0.606756,0.606756,83,0.126904,0.126904,0.05
-64,0.3735,Omen of Chance,Crafted Currency / Ritual Omens,3.08,-1,1.0,Omen of Chance,Ritual Omens,currency,23.00884,23.00884,82,0.133862,0.133862,0.05
-65,0.3697,Einhar's Beastrite,Skill Gems & Support Gems / Lineage Support Gems,0.0418,-1,1.0,Einhar's Beastrite,Lineage Support Gems,currency,0.309052,0.309052,2,0.135252,0.135252,0.05
-66,0.3667,Omen of Sinistral Erasure,Crafted Currency / Ritual Omens,1.837,-1,1.0,Omen of Sinistral Erasure,Ritual Omens,currency,13.472212,13.472212,466,0.136355,0.136355,0.05
-67,0.3617,Lesser Essence of Abrasion,Crafted Currency / Essences,0.022,-1,1.0,Lesser Essence of Abrasion,Essences,currency,0.159143,0.159143,1,0.13824,0.13824,0.05
-68,0.3385,Warding Rune of Heart,Socketable / Runes,0.02,-1,1.0,Warding Rune of Heart,Runes,currency,0.135411,0.135411,12,0.147698,0.147698,0.05
-69,0.3384,Refined Skittering Catalyst,Crafted Currency / Breach Catalysts,0.033,-1,1.0,Refined Skittering Catalyst,Breach,currency,0.223314,0.223314,199,0.147774,0.147774,0.05
-70,0.3357,Potent Liquid Melancholy,Crafted Currency / Distilled Items,0.011,-1,1.0,Potent Liquid Melancholy,Delirium,currency,0.073848,0.073848,156,0.148955,0.148955,0.05
-71,0.3333,Resolve Rune,Socketable / Runes,0.03,-1,1.0,Resolve Rune,Runes,currency,0.2,0.2,5,0.15,0.15,0.05
-72,0.3275,Perfect Essence of Opulence,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Opulence,Essences,currency,0.072044,0.072044,118,0.152685,0.152685,0.05
-73,0.3273,Tecrod's Gaze,Socketable / Gaze,1.07,-1,1.0,Tecrod's Gaze,Abyssal Bones,currency,7.004529,7.004529,46,0.152758,0.152758,0.05
-74,0.3269,Rigwald's Ferocity,Skill Gems & Support Gems / Lineage Support Gems,21.087,-1,1.0,Rigwald's Ferocity,Lineage Support Gems,currency,137.86208,137.86208,29,0.152957,0.152957,0.05
-75,0.3207,Perfect Stone Rune,Socketable / Runes,0.45,-1,1.0,Perfect Stone Rune,Runes,currency,2.885899,2.885899,1,0.155931,0.155931,0.05
-76,0.3089,Omen of Light,Crafted Currency / Ritual Omens,2.057,-1,1.0,Omen of Light,Ritual Omens,currency,12.709727,12.709727,2295,0.161845,0.161845,0.05
-77,0.306,Aldur's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,6.996,-1,1.0,Aldur's Saga,Expedition Coinage & Artifacts,currency,42.821335,42.821335,216,0.163377,0.163377,0.05
-78,0.303,Ancient Concentrated Liquid Suffering,Crafted Currency / Distilled Items,0.011,-1,1.0,Ancient Concentrated Liquid Suffering,Delirium,currency,0.066667,0.066667,15,0.165,0.165,0.05
-79,0.3019,Omen of Reinforcements,Crafted Currency / Ritual Omens,0.088,-1,1.0,Omen of Reinforcements,Ritual Omens,currency,0.531363,0.531363,21,0.165612,0.165612,0.05
-80,0.3006,Ancient Rune of Dueling,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Dueling,Runes,currency,0.120246,0.120246,1,0.166326,0.166326,0.05
-81,0.3,Ancient Rune of Witchcraft,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Witchcraft,Runes,currency,0.119991,0.119991,2,0.166679,0.166679,0.05
-82,0.2969,Perfect Charging Rune,Socketable / Runes,0.5,-1,1.0,Perfect Charging Rune,Runes,currency,2.96868,2.96868,5,0.168425,0.168425,0.05
-83,0.2937,Adept Rune,Socketable / Runes,0.03,-1,1.0,Adept Rune,Runes,currency,0.176224,0.176224,6,0.170238,0.170238,0.05
-84,0.292,Perfect Essence of Ice,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Ice,Essences,currency,0.064245,0.064245,16,0.17122,0.17122,0.05
-85,0.2882,Perfect Ward Rune,Socketable / Runes,0.41,-1,1.0,Perfect Ward Rune,Runes,currency,2.363636,2.363636,11,0.173462,0.173462,0.05
-86,0.2879,Rune of Foundations,Socketable / Runes,0.04,-1,1.0,Rune of Foundations,Runes,currency,0.230299,0.230299,32,0.173687,0.173687,0.05
-87,0.2875,Refined Flesh Catalyst,Crafted Currency / Breach Catalysts,0.033,-1,1.0,Refined Flesh Catalyst,Breach,currency,0.189773,0.189773,581,0.173892,0.173892,0.05
-88,0.2826,Rune of Acrobatics,Socketable / Runes,0.02,-1,1.0,Rune of Acrobatics,Runes,currency,0.113059,0.113059,8,0.176898,0.176898,0.05
-89,0.2823,Robust Rune,Socketable / Runes,0.03,-1,1.0,Robust Rune,Runes,currency,0.16938,0.16938,6,0.177116,0.177116,0.05
-90,0.2792,Essence of Haste,Crafted Currency / Essences,0.011,-1,1.0,Essence of Haste,Essences,currency,0.061424,0.061424,1,0.179084,0.179084,0.05
-91,0.2776,Soul Core of Atmohua,Socketable / Soul Cores,0.08,-1,1.0,Soul Core of Atmohua,Soul Cores,currency,0.444084,0.444084,10,0.180146,0.180146,0.05
-92,0.2763,Omen of the Blackblooded,Crafted Currency / Ritual Omens,0.033,-1,1.0,Omen of the Blackblooded,Ritual Omens,currency,0.182336,0.182336,110,0.180984,0.180984,0.05
-93,0.2759,Thane Girt's Rune of Wildness,Socketable / Runes,0.01,-1,1.0,Thane Girt's Rune of Wildness,Runes,currency,0.055188,0.055188,25,0.181197,0.181197,0.05
-94,0.2749,Garukhan's Resolve,Skill Gems & Support Gems / Lineage Support Gems,89.166,-1,1.0,Garukhan's Resolve,Lineage Support Gems,currency,490.17142,490.17142,35,0.181908,0.181908,0.05
-95,0.2719,Perfect Storm Rune,Socketable / Runes,0.4,-1,1.0,Perfect Storm Rune,Runes,currency,2.175123,2.175123,17,0.183898,0.183898,0.05
-96,0.2688,Omen of Dextral Crystallisation,Crafted Currency / Ritual Omens,0.066,-1,1.0,Omen of Dextral Crystallisation,Ritual Omens,currency,0.35485,0.35485,1142,0.185994,0.185994,0.05
-97,0.2676,Warding Rune of Hollowing,Socketable / Runes,0.02,-1,1.0,Warding Rune of Hollowing,Runes,currency,0.107026,0.107026,3,0.18687,0.18687,0.05
-98,0.2676,Raven-Touched Shard,Socketable / Runes,14.87,-1,1.0,Raven-Touched Shard,Ritual Omens,currency,79.57299,79.57299,71,0.186872,0.186872,0.05
-99,0.2668,Ixchel's Torment,Skill Gems & Support Gems / Lineage Support Gems,0.396,-1,1.0,Ixchel's Torment,Lineage Support Gems,currency,2.112903,2.112903,17,0.18742,0.18742,0.05
-100,0.2652,Perfect Mind Rune,Socketable / Runes,0.37,-1,1.0,Perfect Mind Rune,Runes,currency,1.962245,1.962245,59,0.18856,0.18856,0.05
-101,0.2634,Refined Xoph's Catalyst,Crafted Currency / Breach Catalysts,0.033,-1,1.0,Refined Xoph's Catalyst,Breach,currency,0.173868,0.173868,543,0.189799,0.189799,0.05
-102,0.2625,Omen of Secret Compartments,Crafted Currency / Ritual Omens,0.121,-1,1.0,Omen of Secret Compartments,Ritual Omens,currency,0.63529,0.63529,8,0.190464,0.190464,0.05
-103,0.2606,Rune of Renown,Socketable / Runes,0.02,-1,1.0,Rune of Renown,Runes,currency,0.104255,0.104255,7,0.191838,0.191838,0.05
-104,0.2582,Omen of Resurgence,Crafted Currency / Ritual Omens,0.0055,-1,1.0,Omen of Resurgence,Ritual Omens,currency,0.028405,0.028405,1990,0.193627,0.193627,0.05
-105,0.255,Perfect Glacial Rune,Socketable / Runes,0.4,-1,1.0,Perfect Glacial Rune,Runes,currency,2.04024,2.04024,24,0.196055,0.196055,0.05
-106,0.2538,Lesser Essence of Thawing,Crafted Currency / Essences,0.011,-1,1.0,Lesser Essence of Thawing,Essences,currency,0.05584,0.05584,1,0.196992,0.196992,0.05
-107,0.2534,Mystic Alloy,Crafted Currency / Alloy,0.011,-1,1.0,Mystic Alloy,Verisium,currency,0.055756,0.055756,64,0.197289,0.197289,0.05
-108,0.25,Perfect Body Rune,Socketable / Runes,0.4,-1,1.0,Perfect Body Rune,Runes,currency,2.0,2.0,3,0.2,0.2,0.05
-109,0.25,Perfect Desert Rune,Socketable / Runes,0.4,-1,1.0,Perfect Desert Rune,Runes,currency,2.0,2.0,20,0.2,0.2,0.05
-110,0.2478,Ancient Potent Liquid Contempt,Crafted Currency / Distilled Items,0.825,-1,1.0,Ancient Potent Liquid Contempt,Delirium,currency,4.089342,4.089342,157,0.201744,0.201744,0.05
-111,0.2453,Perfect Essence of Abrasion,Crafted Currency / Essences,0.0055,-1,1.0,Perfect Essence of Abrasion,Essences,currency,0.026986,0.026986,55,0.203811,0.203811,0.05
-112,0.2443,Mind Rune,Socketable / Runes,0.01,-1,1.0,Mind Rune,Runes,currency,0.04886,0.04886,6,0.204667,0.204667,0.05
-113,0.2443,Topotante's Soul Core of Dampening,Socketable / Soul Cores,0.01,-1,1.0,Topotante's Soul Core of Dampening,Soul Cores,currency,0.04886,0.04886,2,0.204667,0.204667,0.05
-114,0.2327,Inspiration Rune,Socketable / Runes,0.03,-1,1.0,Inspiration Rune,Runes,currency,0.139599,0.139599,1,0.214901,0.214901,0.05
-115,0.2317,Potent Liquid Ferocity,Crafted Currency / Distilled Items,0.429,-1,1.0,Potent Liquid Ferocity,Delirium,currency,1.987809,1.987809,366,0.215815,0.215815,0.05
-116,0.2303,Rune of Reach,Socketable / Runes,0.02,-1,1.0,Rune of Reach,Runes,currency,0.092136,0.092136,1,0.217072,0.217072,0.05
-117,0.2295,Emergent Instinct,Socketable / Runes,0.11,-1,1.0,Emergent Instinct,Expedition Coinage & Artifacts,currency,0.504963,0.504963,8,0.217838,0.217838,0.05
-118,0.2294,Vilenta's Propulsion,Skill Gems & Support Gems / Lineage Support Gems,0.0297,-1,1.0,Vilenta's Propulsion,Lineage Support Gems,currency,0.13625,0.13625,28,0.217981,0.217981,0.05
-119,0.2293,Soul Core of Zalatl,Socketable / Soul Cores,0.11,-1,1.0,Soul Core of Zalatl,Soul Cores,currency,0.504495,0.504495,70,0.21804,0.21804,0.05
-120,0.2284,Lesser Essence of Insulation,Crafted Currency / Essences,0.011,-1,1.0,Lesser Essence of Insulation,Essences,currency,0.050256,0.050256,1,0.218881,0.218881,0.05
-121,0.2282,Soul Core of Azcapa,Socketable / Soul Cores,0.53,-1,1.0,Soul Core of Azcapa,Soul Cores,currency,2.418731,2.418731,16,0.219123,0.219123,0.05
-122,0.2241,Omen of the Hunt,Crafted Currency / Ritual Omens,0.198,-1,1.0,Omen of the Hunt,Ritual Omens,currency,0.887331,0.887331,15,0.223141,0.223141,0.05
-123,0.2241,Omen of the Sovereign,Crafted Currency / Ritual Omens,0.0055,-1,1.0,Omen of the Sovereign,Ritual Omens,currency,0.024648,0.024648,10,0.223142,0.223142,0.05
-124,0.2222,Perfect Inspiration Rune,Socketable / Runes,0.45,-1,1.0,Perfect Inspiration Rune,Runes,currency,2.0,2.0,10,0.225,0.225,0.05
-125,0.2222,Perfect Rebirth Rune,Socketable / Runes,0.45,-1,1.0,Perfect Rebirth Rune,Runes,currency,2.0,2.0,5,0.225,0.225,0.05
-126,0.2221,Essence of Seeking,Crafted Currency / Essences,0.022,-1,1.0,Essence of Seeking,Essences,currency,0.097719,0.097719,2,0.225134,0.225134,0.05
-127,0.2208,Perfect Iron Rune,Socketable / Runes,0.35,-1,1.0,Perfect Iron Rune,Runes,currency,1.545777,1.545777,157,0.226423,0.226423,0.05
-128,0.2193,Craiceann's Rune of Recovery,Socketable / Runes,0.02,-1,1.0,Craiceann's Rune of Recovery,Runes,currency,0.087703,0.087703,22,0.228041,0.228041,0.05
-129,0.2173,Refined Esh's Catalyst,Crafted Currency / Breach Catalysts,0.044,-1,1.0,Refined Esh's Catalyst,Breach,currency,0.191238,0.191238,399,0.23008,0.23008,0.05
-130,0.2171,Glacial Rune,Socketable / Runes,0.03,-1,1.0,Glacial Rune,Runes,currency,0.130235,0.130235,8,0.230353,0.230353,0.05
-131,0.2165,Greater Essence of Seeking,Crafted Currency / Essences,0.011,-1,1.0,Greater Essence of Seeking,Essences,currency,0.047634,0.047634,27,0.230928,0.230928,0.05
-132,0.2132,Soul Core of Jiquani,Socketable / Soul Cores,0.11,-1,1.0,Soul Core of Jiquani,Soul Cores,currency,0.469047,0.469047,118,0.234518,0.234518,0.05
-133,0.2092,Omen of Bartering,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Bartering,Ritual Omens,currency,0.046021,0.046021,7673,0.239023,0.239023,0.05
-134,0.2088,Sione's Temper,Skill Gems & Support Gems / Lineage Support Gems,0.0902,-1,1.0,Sione's Temper,Lineage Support Gems,currency,0.376673,0.376673,38,0.239465,0.239465,0.05
-135,0.2051,Sibilant Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Sibilant Catalyst,Breach,currency,0.27078,0.27078,3037,0.24374,0.24374,0.05
-136,0.2015,Omen of Sanctification,Crafted Currency / Ritual Omens,0.132,-1,1.0,Omen of Sanctification,Ritual Omens,currency,0.532003,0.532003,142,0.248119,0.248119,0.05
-137,0.2,Perfect Robust Rune,Socketable / Runes,0.45,-1,1.0,Perfect Robust Rune,Runes,currency,1.8,1.8,5,0.25,0.25,0.05
-138,0.1953,Greater Rune of Alacrity,Socketable / Runes,0.21,-1,1.0,Greater Rune of Alacrity,Runes,currency,0.82015,0.82015,19,0.256051,0.256051,0.05
-139,0.1917,Xopec's Soul Core of Power,Socketable / Soul Cores,0.53,-1,1.0,Xopec's Soul Core of Power,Soul Cores,currency,2.032395,2.032395,10,0.260776,0.260776,0.05
-140,0.1904,Essence of the Infinite,Crafted Currency / Essences,0.022,-1,1.0,Essence of the Infinite,Essences,currency,0.08376,0.08376,1,0.262657,0.262657,0.05
-141,0.1904,Essence of Command,Crafted Currency / Essences,0.022,-1,1.0,Essence of Command,Essences,currency,0.08376,0.08376,1,0.262657,0.262657,0.05
-142,0.1902,Perfect Resolve Rune,Socketable / Runes,0.45,-1,1.0,Perfect Resolve Rune,Runes,currency,1.711571,1.711571,3,0.262916,0.262916,0.05
-143,0.1883,Saqawal's Rune of Memory,Socketable / Runes,0.02,-1,1.0,Saqawal's Rune of Memory,Runes,currency,0.075329,0.075329,18,0.265504,0.265504,0.05
-144,0.1873,idol of Eeshta,Socketable / Idol,0.05,-1,1.0,Idol of Eeshta,Idols,currency,0.187271,0.187271,52,0.266993,0.266993,0.05
-145,0.185,Guatelitzi's Soul Core of Endurance,Socketable / Soul Cores,0.04,-1,1.0,Guatelitzi's Soul Core of Endurance,Soul Cores,currency,0.147975,0.147975,3,0.270316,0.270316,0.05
-146,0.1841,Aldur's Legacy,Socketable / Legacy,52.68,-1,1.0,Aldur's Legacy,Runes,currency,194.0,194.0,31,0.271546,0.271546,0.05
-147,0.1818,Perfect Adept Rune,Socketable / Runes,0.55,-1,1.0,Perfect Adept Rune,Runes,currency,2.0,2.0,7,0.275,0.275,0.05
-148,0.181,Refined Neural Catalyst,Crafted Currency / Breach Catalysts,0.044,-1,1.0,Refined Neural Catalyst,Breach,currency,0.1593,0.1593,426,0.276208,0.276208,0.05
-149,0.1803,Lesser Iron Rune,Socketable / Runes,0.03,-1,1.0,Lesser Iron Rune,Runes,currency,0.10819,0.10819,34,0.277291,0.277291,0.05
-150,0.1803,Omen of Sinistral Exaltation,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Sinistral Exaltation,Ritual Omens,currency,0.039668,0.039668,1902,0.277304,0.277304,0.05
-151,0.1797,Thaumaturgic Flux (Level 9),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 9),Expedition Coinage & Artifacts,currency,0.592976,0.592976,1,0.278258,0.278258,0.05
-152,0.1784,idol of Egrin,Socketable / Idol,0.02,-1,1.0,Idol of Egrin,Idols,currency,0.071377,0.071377,7,0.280203,0.280203,0.05
-153,0.1781,Arbiter's Ignition,Skill Gems & Support Gems / Lineage Support Gems,0.451,-1,1.0,Arbiter's Ignition,Lineage Support Gems,currency,1.606087,1.606087,38,0.280807,0.280807,0.05
-154,0.1762,Idol of Eramir,Socketable / Idol,0.09,-1,1.0,Idol of Eramir,Ritual Omens,currency,0.317094,0.317094,34,0.283827,0.283827,0.05
-155,0.1754,Perfect Vision Rune,Socketable / Runes,0.45,-1,1.0,Perfect Vision Rune,Runes,currency,1.578947,1.578947,19,0.285,0.285,0.05
-156,0.1747,Rabbit idol,Socketable / Idol,0.12,-1,1.0,Rabbit Idol,Idols,currency,0.419398,0.419398,132,0.286124,0.286124,0.05
-157,0.174,Rune of Accumulation,Socketable / Runes,0.02,-1,1.0,Rune of Accumulation,Runes,currency,0.069591,0.069591,8,0.287393,0.287393,0.05
-158,0.1732,Greater Essence of Haste,Crafted Currency / Essences,0.0055,-1,1.0,Greater Essence of Haste,Essences,currency,0.019052,0.019052,110,0.288679,0.288679,0.05
-159,0.1726,Fox idol,Socketable / Idol,0.32,-1,1.0,Fox Idol,Idols,currency,1.104628,1.104628,65,0.28969,0.28969,0.05
-160,0.1718,Rakiata's Flow,Skill Gems & Support Gems / Lineage Support Gems,35.552,-1,1.0,Rakiata's Flow,Lineage Support Gems,currency,122.12222,122.12222,90,0.291118,0.291118,0.05
-161,0.1695,Skittering Catalyst,Crafted Currency / Breach Catalysts,0.022,-1,1.0,Skittering Catalyst,Breach,currency,0.074592,0.074592,1302,0.294938,0.294938,0.05
-162,0.168,Omen of the Ancients,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of the Ancients,Ritual Omens,currency,0.036953,0.036953,991,0.297676,0.297676,0.05
-163,0.1654,Xipocado's Soul Core of Dominion,Socketable / Soul Cores,0.04,-1,1.0,Xipocado's Soul Core of Dominion,Soul Cores,currency,0.132314,0.132314,5,0.30231,0.30231,0.05
-164,0.1641,Masterwork Rune,Socketable / Runes,0.24,-1,1.0,Masterwork Rune,Runes,currency,0.787771,0.787771,662,0.304657,0.304657,0.05
-165,0.157,The Greatwolf's Rune of Claws,Socketable / Runes,0.02,-1,1.0,The Greatwolf's Rune of Claws,Runes,currency,0.062783,0.062783,29,0.318556,0.318556,0.05
-166,0.1552,Greater Charging Rune,Socketable / Runes,0.01,-1,1.0,Greater Charging Rune,Runes,currency,0.031045,0.031045,4,0.322115,0.322115,0.05
-167,0.1551,Greater Iron Rune,Socketable / Runes,0.01,-1,1.0,Greater Iron Rune,Runes,currency,0.031016,0.031016,355,0.322416,0.322416,0.05
-168,0.1523,Essence of Sorcery,Crafted Currency / Essences,0.044,-1,1.0,Essence of Sorcery,Essences,currency,0.134015,0.134015,1,0.328321,0.328321,0.05
-169,0.1501,Rune of the Blossom,Socketable / Runes,0.04,-1,1.0,Rune of the Blossom,Runes,currency,0.120096,0.120096,49,0.333066,0.333066,0.05
-170,0.1475,Countess Seske's Rune of Archery,Socketable / Runes,0.05,-1,1.0,Countess Seske's Rune of Archery,Runes,currency,0.14748,0.14748,17,0.339029,0.339029,0.05
-171,0.1451,Estazunti's Soul Core of Convalescence,Socketable / Soul Cores,0.04,-1,1.0,Estazunti's Soul Core of Convalescence,Soul Cores,currency,0.116115,0.116115,22,0.344485,0.344485,0.05
-172,0.1433,Ancient Crisis Fragment,Keys ＆ Maps / Pinnacle Boss Keys,0.495,-1,1.0,Ancient Crisis Fragment,Fragments,currency,1.418754,1.418754,677,0.348898,0.348898,0.05
-173,0.1408,Snake idol,Socketable / Idol,0.01,-1,1.0,Snake Idol,Ritual Omens,currency,0.028151,0.028151,44,0.355229,0.355229,0.05
-174,0.1386,Ailith's Chimes,Skill Gems & Support Gems / Lineage Support Gems,0.1089,-1,1.0,Ailith's Chimes,Lineage Support Gems,currency,0.30183,0.30183,86,0.360799,0.360799,0.05
-175,0.1373,Omen of Amelioration,Crafted Currency / Ritual Omens,0.044,-1,1.0,Omen of Amelioration,Ritual Omens,currency,0.120805,0.120805,2606,0.364224,0.364224,0.05
-176,0.1372,Omen of Sinistral Crystallisation,Crafted Currency / Ritual Omens,0.077,-1,1.0,Omen of Sinistral Crystallisation,Ritual Omens,currency,0.211243,0.211243,440,0.364509,0.364509,0.05
-177,0.1359,Olroth's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Olroth's Saga,Expedition Coinage & Artifacts,currency,0.299064,0.299064,189,0.367815,0.367815,0.05
-178,0.1359,Lesser Body Rune,Socketable / Runes,0.03,-1,1.0,Lesser Body Rune,Runes,currency,0.081526,0.081526,20,0.367981,0.367981,0.05
-179,0.1346,Kaom's Madness,Skill Gems & Support Gems / Lineage Support Gems,0.0121,-1,1.0,Kaom's Madness,Lineage Support Gems,currency,0.032573,0.032573,6,0.371471,0.371471,0.05
-180,0.1317,Tzamoto's Soul Core of Ferocity,Socketable / Soul Cores,0.15,-1,1.0,Tzamoto's Soul Core of Ferocity,Soul Cores,currency,0.395235,0.395235,16,0.379521,0.379521,0.05
-181,0.1317,Omen of the Blessed,Crafted Currency / Ritual Omens,0.044,-1,1.0,Omen of the Blessed,Ritual Omens,currency,0.115888,0.115888,350,0.379678,0.379678,0.05
-182,0.1292,Perfect Essence of Enhancement,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Enhancement,Essences,currency,0.028417,0.028417,161,0.387091,0.387091,0.05
-183,0.1273,Omen of Chaotic Effectiveness,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Chaotic Effectiveness,Ritual Omens,currency,0.056025,0.056025,7775,0.392685,0.392685,0.05
-184,0.1221,Lesser Ward Rune,Socketable / Runes,0.01,-1,1.0,Lesser Ward Rune,Runes,currency,0.02443,0.02443,4,0.409335,0.409335,0.05
-185,0.1219,Tul's Stillness,Skill Gems & Support Gems / Lineage Support Gems,36.146,-1,1.0,Tul's Stillness,Lineage Support Gems,currency,88.15385,88.15385,13,0.410033,0.410033,0.05
-186,0.1187,Ancient Rune of Decay,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Decay,Runes,currency,0.047464,0.047464,1,0.421374,0.421374,0.05
-187,0.1145,Lesser Essence of Seeking,Crafted Currency / Essences,0.055,-1,1.0,Lesser Essence of Seeking,Essences,currency,0.125957,0.125957,1,0.436658,0.436658,0.05
-188,0.1142,Lesser Essence of Sorcery,Crafted Currency / Essences,0.055,-1,1.0,Lesser Essence of Sorcery,Essences,currency,0.125639,0.125639,1,0.437761,0.437761,0.05
-189,0.114,Lesser Glacial Rune,Socketable / Runes,0.03,-1,1.0,Lesser Glacial Rune,Runes,currency,0.068404,0.068404,2,0.438573,0.438573,0.05
-190,0.114,Ahn's Citadel,Skill Gems & Support Gems / Lineage Support Gems,0.0363,-1,1.0,Ahn's Citadel,Lineage Support Gems,currency,0.082742,0.082742,19,0.438713,0.438713,0.05
-191,0.1128,Ox idol,Socketable / Idol,0.01,-1,1.0,Ox Idol,Idols,currency,0.022558,0.022558,6,0.443305,0.443305,0.05
-192,0.1117,Emergent Protection,Socketable / Runes,0.04,-1,1.0,Emergent Protection,Expedition Coinage & Artifacts,currency,0.089344,0.089344,1,0.44771,0.44771,0.05
-193,0.1081,Hayoxi's Soul Core of Heatproofing,Socketable / Soul Cores,0.03,-1,1.0,Hayoxi's Soul Core of Heatproofing,Soul Cores,currency,0.064882,0.064882,2,0.462381,0.462381,0.05
-194,0.1069,Essence of the Breach,Crafted Currency / Essences,0.044,-1,1.0,Essence of the Breach,Essences,currency,0.094096,0.094096,497,0.467608,0.467608,0.05
-195,0.1047,Rebirth Rune,Socketable / Runes,0.03,-1,1.0,Rebirth Rune,Runes,currency,0.06282,0.06282,2,0.477557,0.477557,0.05
-196,0.1041,Rune of the Prism,Socketable / Runes,0.01,-1,1.0,Rune of the Prism,Runes,currency,0.020813,0.020813,11,0.480469,0.480469,0.05
-197,0.1036,Ancient Potent Liquid Ferocity,Crafted Currency / Distilled Items,0.011,-1,1.0,Ancient Potent Liquid Ferocity,Delirium,currency,0.022801,0.022801,6,0.482431,0.482431,0.05
-198,0.1029,Greater Rune of Tithing,Socketable / Runes,0.38,-1,1.0,Greater Rune of Tithing,Runes,currency,0.782009,0.782009,10,0.485928,0.485928,0.05
-199,0.101,Carved Cunning,Socketable / Runes,0.99,-1,1.0,Carved Cunning,Expedition Coinage & Artifacts,currency,2.0,2.0,2,0.495,0.495,0.05
-200,0.0994,Omen of Dextral Necromancy,Crafted Currency / Ritual Omens,0.0055,-1,1.0,Omen of Dextral Necromancy,Ritual Omens,currency,0.010939,0.010939,1299,0.50279,0.50279,0.05
-201,0.0971,Greater Mind Rune,Socketable / Runes,0.01,-1,1.0,Greater Mind Rune,Runes,currency,0.019427,0.019427,176,0.514742,0.514742,0.05
-202,0.0957,Craiceann's Rune of Warding,Socketable / Runes,0.03,-1,1.0,Craiceann's Rune of Warding,Runes,currency,0.057417,0.057417,25,0.522495,0.522495,0.05
-203,0.0951,Head of the King,Keys ＆ Maps / Pinnacle Boss Keys,2.046,-1,1.0,Head of the King,Ritual Omens,currency,3.893394,3.893394,775,0.525506,0.525506,0.05
-204,0.095,Thane Grannell's Rune of Mastery,Socketable / Runes,0.02,-1,1.0,Thane Grannell's Rune of Mastery,Runes,currency,0.038014,0.038014,13,0.526123,0.526123,0.05
-205,0.0949,Doedre's Undoing,Skill Gems & Support Gems / Lineage Support Gems,0.0539,-1,1.0,Doedre's Undoing,Lineage Support Gems,currency,0.102346,0.102346,24,0.526645,0.526645,0.05
-206,0.0933,Greater Rune of Leadership,Socketable / Runes,0.62,-1,1.0,Greater Rune of Leadership,Runes,currency,1.156934,1.156934,17,0.535899,0.535899,0.05
-207,0.0932,Atmohua's Soul Core of Retreat,Socketable / Soul Cores,0.02,-1,1.0,Atmohua's Soul Core of Retreat,Soul Cores,currency,0.037267,0.037267,10,0.536674,0.536674,0.05
-208,0.0931,Varashta's Blessing,Skill Gems & Support Gems / Lineage Support Gems,0.0055,-1,1.0,Varashta's Blessing,Lineage Support Gems,currency,0.010237,0.010237,3,0.537252,0.537252,0.05
-209,0.0923,Weathered Crisis Fragment,Keys ＆ Maps / Pinnacle Boss Keys,0.495,-1,1.0,Weathered Crisis Fragment,Fragments,currency,0.913777,0.913777,659,0.541707,0.541707,0.05
-210,0.0915,Ancient Rune of Splinters,Socketable / Runes,0.01,-1,1.0,Ancient Rune of Splinters,Runes,currency,0.018303,0.018303,9,0.546358,0.546358,0.05
-211,0.0914,Tacati's Soul Core of Affliction,Socketable / Soul Cores,0.04,-1,1.0,Tacati's Soul Core of Affliction,Soul Cores,currency,0.073124,0.073124,5,0.547014,0.547014,0.05
-212,0.0906,Lesser Essence of Command,Crafted Currency / Essences,0.077,-1,1.0,Lesser Essence of Command,Essences,currency,0.139599,0.139599,1,0.551579,0.551579,0.05
-213,0.0892,Soul Core of Zantipi,Socketable / Soul Cores,0.13,-1,1.0,Soul Core of Zantipi,Soul Cores,currency,0.231988,0.231988,9,0.560374,0.560374,0.05
-214,0.0888,Essence of Electricity,Crafted Currency / Essences,0.022,-1,1.0,Essence of Electricity,Essences,currency,0.039088,0.039088,3,0.562836,0.562836,0.05
-215,0.0887,Zalatl's Soul Core of Insulation,Socketable / Soul Cores,0.02,-1,1.0,Zalatl's Soul Core of Insulation,Soul Cores,currency,0.03548,0.03548,14,0.563702,0.563702,0.05
-216,0.0868,Expedition Logbook,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.99,-1,1.0,Expedition Logbook,Expedition Coinage & Artifacts,currency,1.718939,1.718939,923,0.575937,0.575937,0.05
-217,0.0864,The Greatwolf's Rune of Willpower,Socketable / Runes,0.02,-1,1.0,The Greatwolf's Rune of Willpower,Runes,currency,0.034545,0.034545,12,0.578947,0.578947,0.05
-218,0.0859,Omen of Catalysing Exaltation,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Catalysing Exaltation,Ritual Omens,currency,0.037775,0.037775,360,0.582399,0.582399,0.05
-219,0.0857,Perfect Essence of Battle,Crafted Currency / Essences,0.022,-1,1.0,Perfect Essence of Battle,Essences,currency,0.037704,0.037704,175,0.583491,0.583491,0.05
-220,0.0839,Essence of Insanity,Crafted Currency / Essences,0.022,-1,1.0,Essence of Insanity,Essences,currency,0.036894,0.036894,14,0.596302,0.596302,0.05
-221,0.0838,Perfect Essence of Seeking,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Seeking,Essences,currency,0.018427,0.018427,10,0.596947,0.596947,0.05
-222,0.0838,Warding Rune of Glancing,Socketable / Runes,0.02,-1,1.0,Warding Rune of Glancing,Runes,currency,0.033504,0.033504,1,0.596947,0.596947,0.05
-223,0.0829,Sovereign Alloy,Crafted Currency / Alloy,0.088,-1,1.0,Sovereign Alloy,Verisium,currency,0.145843,0.145843,101,0.603389,0.603389,0.05
-224,0.0809,Saqawal's Rune of the Sky,Socketable / Runes,0.05,-1,1.0,Saqawal's Rune of the Sky,Runes,currency,0.080877,0.080877,76,0.618222,0.618222,0.05
-225,0.0803,Prismatic Alloy,Crafted Currency / Alloy,0.011,-1,1.0,Prismatic Alloy,Verisium,currency,0.017656,0.017656,20,0.623014,0.623014,0.05
-226,0.0791,Quipolatl's Soul Core of Flow,Socketable / Soul Cores,0.17,-1,1.0,Quipolatl's Soul Core of Flow,Soul Cores,currency,0.268983,0.268983,17,0.63201,0.63201,0.05
-227,0.0789,Essence of the Abyss,Crafted Currency / Essences,0.022,-1,1.0,Essence of the Abyss,Essences,currency,0.034731,0.034731,652,0.633444,0.633444,0.05
-228,0.0774,Rune of the Hunt,Socketable / Runes,0.02,-1,1.0,Rune of the Hunt,Runes,currency,0.030966,0.030966,11,0.645877,0.645877,0.05
-229,0.0774,Kurgal's Leash,Skill Gems & Support Gems / Lineage Support Gems,0.0154,-1,1.0,Kurgal's Leash,Lineage Support Gems,currency,0.023825,0.023825,15,0.646381,0.646381,0.05
-230,0.077,Farrul's Rune of the Hunt,Socketable / Runes,0.02,-1,1.0,Farrul's Rune of the Hunt,Runes,currency,0.030781,0.030781,35,0.64976,0.64976,0.05
-231,0.0761,Perfect Essence of Flames,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Flames,Essences,currency,0.016752,0.016752,1,0.656642,0.656642,0.05
-232,0.0761,Lesser Essence of Ice,Crafted Currency / Essences,0.022,-1,1.0,Lesser Essence of Ice,Essences,currency,0.033504,0.033504,2,0.656642,0.656642,0.05
-233,0.0754,Omen of Abyssal Echoes,Crafted Currency / Ritual Omens,0.198,-1,1.0,Omen of Abyssal Echoes,Ritual Omens,currency,0.298656,0.298656,5745,0.662969,0.662969,0.05
-234,0.0743,Hedgewitch Assandra's Rune of Wisdom,Socketable / Runes,0.09,-1,1.0,Hedgewitch Assandra's Rune of Wisdom,Runes,currency,0.133723,0.133723,92,0.673031,0.673031,0.05
-235,0.0721,Lesser Desert Rune,Socketable / Runes,0.03,-1,1.0,Lesser Desert Rune,Runes,currency,0.043276,0.043276,4,0.693229,0.693229,0.05
-236,0.0721,Lesser Storm Rune,Socketable / Runes,0.03,-1,1.0,Lesser Storm Rune,Runes,currency,0.043265,0.043265,24,0.6934,0.6934,0.05
-237,0.0714,Kulemak's Dominion,Skill Gems & Support Gems / Lineage Support Gems,0.0176,-1,1.0,Kulemak's Dominion,Lineage Support Gems,currency,0.025128,0.025128,2,0.700418,0.700418,0.05
-238,0.0698,Warding Rune of Annihilation,Socketable / Runes,0.01,-1,1.0,Warding Rune of Annihilation,Runes,currency,0.01396,0.01396,2,0.716336,0.716336,0.05
-239,0.0698,Lesser Inspiration Rune,Socketable / Runes,0.03,-1,1.0,Lesser Inspiration Rune,Runes,currency,0.04188,0.04188,1,0.716336,0.716336,0.05
-240,0.0698,Ancient Rune of the Titan,Socketable / Runes,0.02,-1,1.0,Ancient Rune of the Titan,Runes,currency,0.02792,0.02792,2,0.716336,0.716336,0.05
-241,0.0696,Carved Mischief,Socketable / Runes,0.05,-1,1.0,Carved Mischief,Expedition Coinage & Artifacts,currency,0.069591,0.069591,7,0.718483,0.718483,0.05
-242,0.0669,Transcendent Alloy,Crafted Currency / Alloy,0.077,-1,1.0,Transcendent Alloy,Verisium,currency,0.103089,0.103089,123,0.746926,0.746926,0.05
-243,0.0668,Paquate's Pact,Skill Gems & Support Gems / Lineage Support Gems,0.0209,-1,1.0,Paquate's Pact,Lineage Support Gems,currency,0.02792,0.02792,1,0.748571,0.748571,0.05
-244,0.0666,Serle's Triumph,Socketable / Runes,1.21,-1,1.0,Serle's Triumph,Runes,currency,1.610831,1.610831,40,0.751165,0.751165,0.05
-245,0.0661,Greater Adept Rune,Socketable / Runes,0.01,-1,1.0,Greater Adept Rune,Runes,currency,0.013215,0.013215,15,0.756693,0.756693,0.05
-246,0.0648,Essence of Hysteria,Crafted Currency / Essences,0.473,-1,1.0,Essence of Hysteria,Essences,currency,0.613058,0.613058,128,0.771542,0.771542,0.05
-247,0.0646,Amanamu's Gaze,Socketable / Gaze,0.24,-1,1.0,Amanamu's Gaze,Abyssal Bones,currency,0.310217,0.310217,7,0.773651,0.773651,0.05
-248,0.0644,Perfect Essence of Haste,Crafted Currency / Essences,0.033,-1,1.0,Perfect Essence of Haste,Essences,currency,0.042505,0.042505,52,0.776379,0.776379,0.05
-249,0.0634,Primate idol,Socketable / Idol,0.01,-1,1.0,Primate Idol,Idols,currency,0.01268,0.01268,24,0.788627,0.788627,0.05
-250,0.0628,Desert Rune,Socketable / Runes,0.01,-1,1.0,Desert Rune,Runes,currency,0.012564,0.012564,2,0.795929,0.795929,0.05
-251,0.0616,Idol of Yeena,Socketable / Idol,0.02,-1,1.0,Idol of Yeena,Ritual Omens,currency,0.024648,0.024648,2,0.811427,0.811427,0.05
-252,0.0613,Carved Tenacity,Socketable / Runes,0.27,-1,1.0,Carved Tenacity,Expedition Coinage & Artifacts,currency,0.331001,0.331001,8,0.815708,0.815708,0.05
-253,0.0605,Fenumus' Rune of Draining,Socketable / Runes,0.02,-1,1.0,Fenumus' Rune of Draining,Runes,currency,0.024197,0.024197,3,0.826542,0.826542,0.05
-254,0.0601,Concentrated Liquid Suffering,Crafted Currency / Distilled Items,0.1529,-1,1.0,Concentrated Liquid Suffering,Delirium,currency,0.18375,0.18375,155,0.83211,0.83211,0.05
-255,0.0593,Warding Rune of Equinox,Socketable / Runes,0.04,-1,1.0,Warding Rune of Equinox,Runes,currency,0.047464,0.047464,3,0.842749,0.842749,0.05
-256,0.0583,Greater Essence of Ruin,Crafted Currency / Essences,0.011,-1,1.0,Greater Essence of Ruin,Essences,currency,0.012827,0.012827,63,0.857581,0.857581,0.05
-257,0.0562,Cyclonic Alloy,Crafted Currency / Alloy,0.011,-1,1.0,Cyclonic Alloy,Verisium,currency,0.012371,0.012371,22,0.889201,0.889201,0.05
-258,0.0559,Idol of the Martyr,Socketable / Idol,0.02,-1,1.0,Idol of the Martyr,Ritual Omens,currency,0.022366,0.022366,6,0.894225,0.894225,0.05
-259,0.0547,Soul Core of Citaqualotl,Socketable / Soul Cores,0.12,-1,1.0,Soul Core of Citaqualotl,Soul Cores,currency,0.131249,0.131249,88,0.914291,0.914291,0.05
-260,0.0544,Ratha's Assault,Skill Gems & Support Gems / Lineage Support Gems,0.0154,-1,1.0,Ratha's Assault,Lineage Support Gems,currency,0.016752,0.016752,5,0.919298,0.919298,0.05
-261,0.0542,Soul Core of Quipolatl,Socketable / Soul Cores,1.28,-1,1.0,Soul Core of Quipolatl,Soul Cores,currency,1.386697,1.386697,55,0.923056,0.923056,0.05
-262,0.0532,idol of Grold,Socketable / Idol,0.03,-1,1.0,Idol of Grold,Idols,currency,0.031925,0.031925,16,0.939693,0.939693,0.05
-263,0.0514,idol of Ralakesh,Socketable / Idol,0.15,-1,1.0,Idol of Ralakesh,Idols,currency,0.154061,0.154061,34,0.973643,0.973643,0.05
-264,0.0513,Neural Catalyst,Crafted Currency / Breach Catalysts,0.011,-1,1.0,Neural Catalyst,Breach,currency,0.01129,0.01129,4441,0.974356,0.974356,0.05
-265,0.0512,Owl idol,Socketable / Idol,0.01,-1,1.0,Owl Idol,Idols,currency,0.010237,0.010237,3,0.976822,0.976822,0.05
-266,0.051,Thaumaturgic Flux (Level 13),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 13),Expedition Coinage & Artifacts,currency,0.168364,0.168364,3,0.980018,0.980018,0.05
-267,0.0491,Refined Chayula's Catalyst,Crafted Currency / Breach Catalysts,0.198,-1,1.0,Refined Chayula's Catalyst,Breach,currency,0.194541,0.194541,320,1.017779,1.017779,0.05
-268,0.0489,Thaumaturgic Flux (Level 14),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 14),Expedition Coinage & Artifacts,currency,0.161237,0.161237,4,1.023337,1.023337,0.05
-269,0.0489,Omen of Greater Exaltation,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Greater Exaltation,Ritual Omens,currency,0.010747,0.010747,1293,1.023523,1.023523,0.05
-270,0.0484,Uruk's Smelting,Skill Gems & Support Gems / Lineage Support Gems,0.0297,-1,1.0,Uruk's Smelting,Lineage Support Gems,currency,0.028745,0.028745,20,1.033237,1.033237,0.05
-271,0.0479,Idol of Kraityn,Socketable / Idol,0.02,-1,1.0,Idol of Kraityn,Ritual Omens,currency,0.019171,0.019171,2,1.043263,1.043263,0.05
-272,0.0468,Lesser Robust Rune,Socketable / Runes,0.17,-1,1.0,Lesser Robust Rune,Runes,currency,0.159007,0.159007,17,1.069139,1.069139,0.05
-273,0.0465,Ancient Potent Liquid Melancholy,Crafted Currency / Distilled Items,0.044,-1,1.0,Ancient Potent Liquid Melancholy,Delirium,currency,0.040919,0.040919,123,1.075296,1.075296,0.05
-274,0.0461,Arjun's Medal,Skill Gems & Support Gems / Lineage Support Gems,0.0121,-1,1.0,Arjun's Medal,Lineage Support Gems,currency,0.011168,0.011168,4,1.083459,1.083459,0.05
-275,0.0452,Farrul's Rune of the Chase,Socketable / Runes,0.11,-1,1.0,Farrul's Rune of the Chase,Runes,currency,0.099379,0.099379,112,1.106873,1.106873,0.05
-276,0.0447,idol of Sirrius,Socketable / Idol,0.15,-1,1.0,Idol of Sirrius,Idols,currency,0.134194,0.134194,50,1.117786,1.117786,0.05
-277,0.0436,Farrul's Rune of Grace,Socketable / Runes,0.02,-1,1.0,Farrul's Rune of Grace,Runes,currency,0.01745,0.01745,4,1.146138,1.146138,0.05
-278,0.0425,Soul Core of Ticaba,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Ticaba,Soul Cores,currency,0.059456,0.059456,5,1.177333,1.177333,0.05
-279,0.0424,Lesser Adept Rune,Socketable / Runes,0.07,-1,1.0,Lesser Adept Rune,Runes,currency,0.05933,0.05933,8,1.179848,1.179848,0.05
-280,0.0423,Thaumaturgic Flux (Level 10),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 10),Expedition Coinage & Artifacts,currency,0.139599,0.139599,1,1.181955,1.181955,0.05
-281,0.0422,Fenumus' Rune of Agony,Socketable / Runes,0.04,-1,1.0,Fenumus' Rune of Agony,Runes,currency,0.033765,0.033765,26,1.184663,1.184663,0.05
-282,0.0419,Ancient Rune of Discovery,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Discovery,Runes,currency,0.016752,0.016752,2,1.193894,1.193894,0.05
-283,0.0419,Ward Rune,Socketable / Runes,0.03,-1,1.0,Ward Rune,Runes,currency,0.025128,0.025128,2,1.193894,1.193894,0.05
-284,0.0411,Idol of Greust,Socketable / Idol,0.02,-1,1.0,Idol of Greust,Ritual Omens,currency,0.016432,0.016432,1,1.21714,1.21714,0.05
-285,0.0408,Kolr's Hunt,Socketable / Runes,0.36,-1,1.0,Kolr's Hunt,Runes,currency,0.294083,0.294083,49,1.224144,1.224144,0.05
-286,0.0405,Betrayal of Aldur,Socketable / Runes,0.02,-1,1.0,Betrayal of Aldur,Runes,currency,0.016194,0.016194,5,1.235062,1.235062,0.05
-287,0.0401,idol of Thruldana,Socketable / Idol,0.02,-1,1.0,Idol of Thruldana,Idols,currency,0.016054,0.016054,8,1.245802,1.245802,0.05
-288,0.0385,Reaver Catalyst,Crafted Currency / Breach Catalysts,0.187,-1,1.0,Reaver Catalyst,Breach,currency,0.144003,0.144003,2922,1.298583,1.298583,0.05
-289,0.0384,Rune of Culmination,Socketable / Runes,0.02,-1,1.0,Rune of Culmination,Runes,currency,0.015356,0.015356,6,1.302429,1.302429,0.05
-290,0.0378,Uhtred's Sidereus,Socketable / Runes,0.24,-1,1.0,Uhtred's Sidereus,Runes,currency,0.181351,0.181351,29,1.323399,1.323399,0.05
-291,0.0369,The Runebinder's Alloy,Crafted Currency / Alloy,0.187,-1,1.0,The Runebinder's Alloy,Verisium,currency,0.138178,0.138178,10,1.353331,1.353331,0.05
-292,0.0363,Concentrated Liquid Fear,Crafted Currency / Distilled Items,0.0715,-1,1.0,Concentrated Liquid Fear,Delirium,currency,0.0519,0.0519,196,1.37766,1.37766,0.05
-293,0.0349,Ancient Rune of the Horde,Socketable / Runes,0.02,-1,1.0,Ancient Rune of the Horde,Runes,currency,0.01396,0.01396,1,1.432672,1.432672,0.05
-294,0.0349,Charging Rune,Socketable / Runes,0.02,-1,1.0,Charging Rune,Runes,currency,0.01396,0.01396,1,1.432672,1.432672,0.05
-295,0.0349,Lesser Charging Rune,Socketable / Runes,0.02,-1,1.0,Charging Rune,Runes,currency,0.01396,0.01396,1,1.432672,1.432672,0.05
-296,0.0348,Soul Core of Cholotl,Socketable / Soul Cores,0.26,-1,1.0,Soul Core of Cholotl,Soul Cores,currency,0.180921,0.180921,5,1.437094,1.437094,0.05
-297,0.0317,Lesser Essence of the Infinite,Crafted Currency / Essences,0.022,-1,1.0,Lesser Essence of the Infinite,Essences,currency,0.01396,0.01396,3,1.57594,1.57594,0.05
-298,0.0299,Potent Liquid Contempt,Crafted Currency / Distilled Items,1.089,-1,1.0,Potent Liquid Contempt,Delirium,currency,0.650972,0.650972,754,1.672882,1.672882,0.05
-299,0.0296,Thaumaturgic Flux (Level 15),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 15),Expedition Coinage & Artifacts,currency,0.097719,0.097719,1,1.688507,1.688507,0.05
-300,0.0296,Thaumaturgic Flux (Level 12),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 12),Expedition Coinage & Artifacts,currency,0.097719,0.097719,1,1.688507,1.688507,0.05
-301,0.0292,Thaumaturgic Flux (Level 11),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 11),Expedition Coinage & Artifacts,currency,0.096466,0.096466,4,1.710442,1.710442,0.05
-302,0.0289,Concentrated Liquid Isolation,Crafted Currency / Distilled Items,1.089,-1,1.0,Concentrated Liquid Isolation,Delirium,currency,0.629253,0.629253,213,1.730622,1.730622,0.05
-303,0.0279,Greater Rune of Nobility,Socketable / Runes,0.05,-1,1.0,Greater Rune of Nobility,Runes,currency,0.02792,0.02792,1,1.790841,1.790841,0.05
-304,0.0274,Idol of Oak,Socketable / Idol,0.04,-1,1.0,Idol of Oak,Ritual Omens,currency,0.021909,0.021909,2,1.82571,1.82571,0.05
-305,0.0266,Idol of the Pharisee,Socketable / Idol,0.03,-1,1.0,Idol of the Pharisee,Ritual Omens,currency,0.015934,0.015934,11,1.882763,1.882763,0.05
-306,0.0265,Uromoti's Soul Core of Attenuation,Socketable / Soul Cores,0.04,-1,1.0,Uromoti's Soul Core of Attenuation,Soul Cores,currency,0.021178,0.021178,7,1.888768,1.888768,0.05
-307,0.0254,Soul Core of Tacati,Socketable / Soul Cores,0.15,-1,1.0,Soul Core of Tacati,Soul Cores,currency,0.076174,0.076174,215,1.969182,1.969182,0.05
-308,0.0254,Lesser Essence of Battle,Crafted Currency / Essences,0.022,-1,1.0,Lesser Essence of Battle,Essences,currency,0.011168,0.011168,1,1.969925,1.969925,0.05
-309,0.0222,Medved's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Medved's Saga,Expedition Coinage & Artifacts,currency,0.048832,0.048832,104,2.252603,2.252603,0.05
-310,0.0219,Blazing Flux,Crafted Currency / Flux,0.077,-1,1.0,Blazing Flux,Expedition Coinage & Artifacts,currency,0.033737,0.033737,127,2.282372,2.282372,0.05
-311,0.0218,Soul Core of Xopec,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Xopec,Soul Cores,currency,0.03055,0.03055,9,2.291356,2.291356,0.05
-312,0.0216,Void Flux,Crafted Currency / Flux,0.132,-1,1.0,Void Flux,Expedition Coinage & Artifacts,currency,0.056909,0.056909,27,2.3195,2.3195,0.05
-313,0.0214,Vorana's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Vorana's Saga,Expedition Coinage & Artifacts,currency,0.047178,0.047178,62,2.331616,2.331616,0.05
-314,0.02,Katla's Gloom,Socketable / Runes,0.24,-1,1.0,Katla's Gloom,Runes,currency,0.095765,0.095765,20,2.506133,2.506133,0.05
-315,0.019,Crackling Flux,Crafted Currency / Flux,0.077,-1,1.0,Crackling Flux,Expedition Coinage & Artifacts,currency,0.029313,0.029313,92,2.626816,2.626816,0.05
-316,0.0188,Chayula's Catalyst,Crafted Currency / Breach Catalysts,0.033,-1,1.0,Chayula's Catalyst,Breach,currency,0.012428,0.012428,1636,2.655199,2.655199,0.05
-317,0.0186,Lesser Mind Rune,Socketable / Runes,0.03,-1,1.0,Lesser Mind Rune,Runes,currency,0.011168,0.011168,1,2.686261,2.686261,0.05
-318,0.0178,Soul Core of Puhuarte,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Puhuarte,Soul Cores,currency,0.024895,0.024895,12,2.811787,2.811787,0.05
-319,0.0177,Soul Core of Tzamoto,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Tzamoto,Soul Cores,currency,0.024779,0.024779,8,2.824988,2.824988,0.05
-320,0.0173,Chilling Flux,Crafted Currency / Flux,0.077,-1,1.0,Chilling Flux,Expedition Coinage & Artifacts,currency,0.026582,0.026582,100,2.896716,2.896716,0.05
-321,0.016,Thrud's Might,Socketable / Runes,0.07,-1,1.0,Thrud's Might,Runes,currency,0.022336,0.022336,8,3.133971,3.133971,0.05
-322,0.0155,Greater Essence of Opulence,Crafted Currency / Essences,0.033,-1,1.0,Greater Essence of Opulence,Essences,currency,0.010219,0.010219,358,3.229126,3.229126,0.05
-323,0.0153,Soul Core of Topotante,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Topotante,Soul Cores,currency,0.021363,0.021363,66,3.276706,3.276706,0.05
-324,0.0152,Astrid's Creativity,Socketable / Runes,7.25,-1,1.0,Astrid's Creativity,Runes,currency,2.203562,2.203562,140,3.290127,3.290127,0.05
-325,0.0146,Esh's Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Esh's Catalyst,Breach,currency,0.019274,0.019274,2176,3.424339,3.424339,0.05
-326,0.0146,Ulaman's Gaze,Socketable / Gaze,1.87,-1,1.0,Ulaman's Gaze,Abyssal Bones,currency,0.545866,0.545866,7,3.425747,3.425747,0.05
-327,0.0145,Essence of Opulence,Crafted Currency / Essences,0.077,-1,1.0,Essence of Opulence,Essences,currency,0.022336,0.022336,1,3.447368,3.447368,0.05
-328,0.013,Medved's Tending,Socketable / Runes,0.12,-1,1.0,Medved's Tending,Runes,currency,0.03117,0.03117,18,3.849852,3.849852,0.05
-329,0.0127,Opiloti's Soul Core of Assault,Socketable / Soul Cores,1.12,-1,1.0,Opiloti's Soul Core of Assault,Soul Cores,currency,0.283809,0.283809,3,3.946316,3.946316,0.05
-330,0.0126,Cadigan's Epiphany,Socketable / Runes,2.42,-1,1.0,Cadigan's Epiphany,Runes,currency,0.610801,0.610801,59,3.96201,3.96201,0.05
-331,0.0119,Simulacrum,Keys ＆ Maps / Pinnacle Boss Keys,14.091,-1,1.0,Simulacrum,Fragments,currency,3.366744,3.366744,2129,4.185349,4.185349,0.05
-332,0.0118,Thaumaturgic Flux (Level 8),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 8),Expedition Coinage & Artifacts,currency,0.039088,0.039088,1,4.221267,4.221267,0.05
-333,0.0107,Xoph's Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Xoph's Catalyst,Breach,currency,0.01406,0.01406,2111,4.694276,4.694276,0.05
-334,0.0106,Tul's Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Tul's Catalyst,Breach,currency,0.014034,0.014034,4081,4.702805,4.702805,0.05
-335,0.0106,The Runefather's Alloy,Crafted Currency / Alloy,0.066,-1,1.0,The Runefather's Alloy,Verisium,currency,0.01396,0.01396,9,4.727819,4.727819,0.05
-336,0.0086,Celestial Alloy,Crafted Currency / Alloy,3.036,-1,1.0,Celestial Alloy,Verisium,currency,0.523457,0.523457,103,5.799901,5.799901,0.05
-337,0.0086,Soul Core of Opiloti,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Opiloti,Soul Cores,currency,0.011971,0.011971,52,5.847537,5.847537,0.05
-338,0.0085,Thaumaturgic Flux (Level 16),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 16),Expedition Coinage & Artifacts,currency,0.02792,0.02792,1,5.909774,5.909774,0.05
-339,0.0085,Lesser Essence of Opulence,Crafted Currency / Essences,0.099,-1,1.0,Lesser Essence of Opulence,Essences,currency,0.016752,0.016752,1,5.909774,5.909774,0.05
-340,0.0085,Brutus' Brain,Skill Gems & Support Gems / Lineage Support Gems,0.5577,-1,1.0,Brutus' Brain,Lineage Support Gems,currency,0.094263,0.094263,19,5.916435,5.916435,0.05
-341,0.0078,Tecrod's Revenge,Skill Gems & Support Gems / Lineage Support Gems,0.7469,-1,1.0,Tecrod's Revenge,Lineage Support Gems,currency,0.117237,0.117237,20,6.370839,6.370839,0.05
-342,0.0076,Thaumaturgic Flux (Level 17),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 17),Expedition Coinage & Artifacts,currency,0.025128,0.025128,3,6.566415,6.566415,0.05
-343,0.0071,Adaptive Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Adaptive Alloy,Verisium,currency,0.136569,0.136569,24,7.007434,7.007434,0.05
-344,0.0063,Kulemak's Invitation,Keys ＆ Maps / Pinnacle Boss Keys,21.989,-1,1.0,Kulemak's Invitation,Fragments,currency,2.775931,2.775931,807,7.921306,7.921306,0.05
-345,0.0048,Protective Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Protective Alloy,Verisium,currency,0.091268,0.091268,21,10.485573,10.485573,0.05
-346,0.0028,Thaumaturgic Flux (Level 20),Skill Gems & Support Gems / Thaumaturgic Flux,1.98,-1,1.0,Thaumaturgic Flux (Level 20),Expedition Coinage & Artifacts,currency,0.11017,0.11017,14,17.972235,17.972235,0.05
-347,0.0024,Runic Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Runic Alloy,Verisium,currency,0.046399,0.046399,52,20.625476,20.625476,0.05
-348,0.0023,Expansive Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Expansive Alloy,Verisium,currency,0.043608,0.043608,37,21.945316,21.945316,0.05
-349,0.0013,Liquid Despair,Crafted Currency / Distilled Items,0.462,-1,1.0,Liquid Despair,Delirium,currency,0.012263,0.012263,286,37.673481,37.673481,0.05
-350,0.0013,Romira's Requital,Skill Gems & Support Gems / Lineage Support Gems,2.189,-1,1.0,Romira's Requital,Lineage Support Gems,currency,0.056635,0.056635,25,38.650945,38.650945,0.05
-351,0.0001,Swift Alloy,Crafted Currency / Alloy,10.89,-1,1.0,Swift Alloy,Verisium,currency,0.027797,0.027797,118,391.767106,391.767106,0.05
-352,0.0001,Warding Rune of Nourishment,Socketable / Runes,24.29,-1,1.0,Warding Rune of Nourishment,Runes,currency,0.050256,0.050256,2,483.327971,483.327971,0.05
-353,0.0,Dominus' Grasp,Skill Gems & Support Gems / Lineage Support Gems,86.075,-1,1.0,Dominus' Grasp,Lineage Support Gems,currency,0.05297,0.05297,33,1624.990115,1624.990115,0.05
+1,9.072,Perfect Essence of Ruin,Crafted Currency / Essences,0.0022,-1,1.0,Perfect Essence of Ruin,Essences,currency,0.399167,0.399167,1,0.005511,0.005511,0.05
+2,1.9414,Refined Sibilant Catalyst,Crafted Currency / Breach Catalysts,0.165,-1,1.0,Refined Sibilant Catalyst,Breach,currency,6.406612,6.406612,683,0.025755,0.025755,0.05
+3,1.7727,Emergent Vigour,Socketable / Runes,0.24,-1,1.0,Emergent Vigour,Expedition Coinage & Artifacts,currency,8.508891,8.508891,7,0.028206,0.028206,0.05
+4,1.6741,Refined Uul-Netol's Catalyst,Crafted Currency / Breach Catalysts,0.0055,-1,1.0,Refined Uul-Netol's Catalyst,Breach,currency,0.184153,0.184153,358,0.029867,0.029867,0.05
+5,1.5014,Omen of Chaotic Rarity,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Chaotic Rarity,Ritual Omens,currency,0.330314,0.330314,5430,0.033302,0.033302,0.05
+6,1.3981,Essence of Delirium,Crafted Currency / Essences,0.022,-1,1.0,Essence of Delirium,Essences,currency,0.615169,0.615169,107,0.035763,0.035763,0.05
+7,1.3061,Idol of Greust,Socketable / Idol,0.02,-1,1.0,Idol of Greust,Ritual Omens,currency,0.522439,0.522439,2,0.038282,0.038282,0.05
+8,1.2738,Kurgal's Gaze,Socketable / Gaze,2.94,-1,1.0,Kurgal's Gaze,Abyssal Bones,currency,74.9,74.9,10,0.039252,0.039252,0.05
+9,1.1196,Uhtred's Augury,Skill Gems & Support Gems / Lineage Support Gems,4.521,-1,1.0,Uhtred's Augury,Lineage Support Gems,currency,101.2381,101.2381,21,0.044657,0.044657,0.05
+10,1.039,Charging Rune,Socketable / Runes,0.02,-1,1.0,Charging Rune,Runes,currency,0.415587,0.415587,4,0.048125,0.048125,0.05
+11,1.039,Lesser Charging Rune,Socketable / Runes,0.02,-1,1.0,Charging Rune,Runes,currency,0.415587,0.415587,4,0.048125,0.048125,0.05
+12,1.0206,Perfect Essence of the Infinite,Crafted Currency / Essences,0.0033,-1,1.0,Perfect Essence of the Infinite,Essences,currency,0.06736,0.06736,786,0.048991,0.048991,0.05
+13,1.0058,Kaom's Madness,Skill Gems & Support Gems / Lineage Support Gems,0.0121,-1,1.0,Kaom's Madness,Lineage Support Gems,currency,0.243406,0.243406,14,0.049711,0.049711,0.05
+14,1.003,Lesser Essence of Seeking,Crafted Currency / Essences,0.055,-1,1.0,Lesser Essence of Seeking,Essences,currency,1.103303,1.103303,1,0.04985,0.04985,0.05
+15,1.0,Divine Orb,Direct Divine Baseline,0.05,,1.0,Divine Orb,Currency,currency,1.0,1.0,,0.05,0.05,0.05
+16,0.9888,Carved Majesty,Socketable / Runes,9.42,-1,1.0,Carved Majesty,Expedition Coinage & Artifacts,currency,186.28572,186.28572,7,0.050567,0.050567,0.05
+17,0.9786,Refined Tul's Catalyst,Crafted Currency / Breach Catalysts,0.011,-1,1.0,Refined Tul's Catalyst,Breach,currency,0.215284,0.215284,448,0.051095,0.051095,0.05
+18,0.9645,Faded Crisis Fragment,Keys ＆ Maps / Pinnacle Boss Keys,0.495,-1,1.0,Faded Crisis Fragment,Fragments,currency,9.54862,9.54862,726,0.05184,0.05184,0.05
+19,0.9091,Essence of Ruin,Crafted Currency / Essences,0.055,-1,1.0,Essence of Ruin,Essences,currency,1.0,1.0,2,0.055,0.055,0.05
+20,0.9091,Lesser Essence of Ruin,Crafted Currency / Essences,0.055,-1,1.0,Lesser Essence of Ruin,Essences,currency,1.0,1.0,3,0.055,0.055,0.05
+21,0.8885,Uul-Netol's Embrace,Skill Gems & Support Gems / Lineage Support Gems,32.99,-1,1.0,Uul-Netol's Embrace,Lineage Support Gems,currency,586.25,586.25,12,0.056273,0.056273,0.05
+22,0.8501,Emergent Possibility,Socketable / Runes,2.48,-1,1.0,Emergent Possibility,Expedition Coinage & Artifacts,currency,42.166668,42.166668,6,0.058814,0.058814,0.05
+23,0.842,Refined Carapace Catalyst,Crafted Currency / Breach Catalysts,0.011,-1,1.0,Refined Carapace Catalyst,Breach,currency,0.185234,0.185234,851,0.059384,0.059384,0.05
+24,0.8137,Refined Reaver Catalyst,Crafted Currency / Breach Catalysts,0.22,-1,1.0,Refined Reaver Catalyst,Breach,currency,3.580262,3.580262,492,0.061448,0.061448,0.05
+25,0.7963,Refined Adaptive Catalyst,Crafted Currency / Breach Catalysts,0.011,-1,1.0,Refined Adaptive Catalyst,Breach,currency,0.175181,0.175181,349,0.062792,0.062792,0.05
+26,0.785,Essence of Alacrity,Crafted Currency / Essences,0.033,-1,1.0,Essence of Alacrity,Essences,currency,0.518123,0.518123,3,0.063691,0.063691,0.05
+27,0.7758,Esh's Radiance,Skill Gems & Support Gems / Lineage Support Gems,7.535,-1,1.0,Esh's Radiance,Lineage Support Gems,currency,116.916664,116.916664,12,0.064448,0.064448,0.05
+28,0.7457,Xoph's Pyre,Skill Gems & Support Gems / Lineage Support Gems,4.521,-1,1.0,Xoph's Pyre,Lineage Support Gems,currency,67.42857,67.42857,14,0.067049,0.067049,0.05
+29,0.7291,Uhtred's Exodus,Skill Gems & Support Gems / Lineage Support Gems,19.58,-1,1.0,Uhtred's Exodus,Lineage Support Gems,currency,285.5,285.5,6,0.068581,0.068581,0.05
+30,0.6805,Omen of Answered Prayers,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Answered Prayers,Ritual Omens,currency,0.299431,0.299431,8,0.073473,0.073473,0.05
+31,0.6542,Omen of Chaotic Quantity,Crafted Currency / Ritual Omens,0.044,-1,1.0,Omen of Chaotic Quantity,Ritual Omens,currency,0.575712,0.575712,6534,0.076427,0.076427,0.05
+32,0.6054,Lesser Stone Rune,Socketable / Runes,0.03,-1,1.0,Lesser Stone Rune,Runes,currency,0.363235,0.363235,3,0.082591,0.082591,0.05
+33,0.5946,Soul Core of Jiquani,Socketable / Soul Cores,0.11,-1,1.0,Soul Core of Jiquani,Soul Cores,currency,1.30809,1.30809,40,0.084092,0.084092,0.05
+34,0.5671,Uhtred's Omen,Skill Gems & Support Gems / Lineage Support Gems,1.507,-1,1.0,Uhtred's Omen,Lineage Support Gems,currency,17.093023,17.093023,43,0.088165,0.088165,0.05
+35,0.554,Atziri's Allure,Skill Gems & Support Gems / Lineage Support Gems,0.1331,-1,1.0,Atziri's Allure,Lineage Support Gems,currency,1.47465,1.47465,6,0.090259,0.090259,0.05
+36,0.5408,Dialla's Desire,Skill Gems & Support Gems / Lineage Support Gems,31.636,-1,1.0,Dialla's Desire,Lineage Support Gems,currency,342.16666,342.16666,36,0.092458,0.092458,0.05
+37,0.5237,Rune of Renown,Socketable / Runes,0.02,-1,1.0,Rune of Renown,Runes,currency,0.209494,0.209494,9,0.095468,0.095468,0.05
+38,0.5236,Greater Charging Rune,Socketable / Runes,0.01,-1,1.0,Greater Charging Rune,Runes,currency,0.104714,0.104714,3,0.095498,0.095498,0.05
+39,0.5218,Ancient Rune of Discovery,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Discovery,Runes,currency,0.208727,0.208727,10,0.095819,0.095819,0.05
+40,0.5125,Ancient Rune of the Titan,Socketable / Runes,0.02,-1,1.0,Ancient Rune of the Titan,Runes,currency,0.205009,0.205009,2,0.097557,0.097557,0.05
+41,0.5094,Inspiration Rune,Socketable / Runes,0.03,-1,1.0,Inspiration Rune,Runes,currency,0.305626,0.305626,4,0.098159,0.098159,0.05
+42,0.5022,Victorious Fate,Keys ＆ Maps / Pinnacle Boss Keys,0.517,-1,1.0,Victorious Fate,Fragments,currency,5.192799,5.192799,255,0.099561,0.099561,0.05
+43,0.5,Ancient Rune of Control,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Control,Runes,currency,0.2,0.2,5,0.1,0.1,0.05
+44,0.499,Atalui's Bloodletting,Skill Gems & Support Gems / Lineage Support Gems,0.253,-1,1.0,Atalui's Bloodletting,Lineage Support Gems,currency,2.525168,2.525168,40,0.100191,0.100191,0.05
+45,0.4957,Greater Essence of Ice,Crafted Currency / Essences,0.0022,-1,1.0,Greater Essence of Ice,Essences,currency,0.02181,0.02181,50,0.10087,0.10087,0.05
+46,0.4909,Perfect Essence of Abrasion,Crafted Currency / Essences,0.0055,-1,1.0,Perfect Essence of Abrasion,Essences,currency,0.053999,0.053999,51,0.101853,0.101853,0.05
+47,0.4874,Omen of the Sovereign,Crafted Currency / Ritual Omens,0.0055,-1,1.0,Omen of the Sovereign,Ritual Omens,currency,0.053614,0.053614,44,0.102585,0.102585,0.05
+48,0.4842,Omen of Chaotic Monsters,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Chaotic Monsters,Ritual Omens,currency,0.213031,0.213031,4730,0.103271,0.103271,0.05
+49,0.4835,Deadly Fate,Keys ＆ Maps / Pinnacle Boss Keys,0.55,-1,1.0,Deadly Fate,Fragments,currency,5.318173,5.318173,108,0.103419,0.103419,0.05
+50,0.4746,Uhtred's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Uhtred's Saga,Expedition Coinage & Artifacts,currency,1.04402,1.04402,493,0.105362,0.105362,0.05
+51,0.4547,Omen of Dextral Annulment,Crafted Currency / Ritual Omens,1.177,-1,1.0,Omen of Dextral Annulment,Ritual Omens,currency,10.702926,10.702926,541,0.10997,0.10997,0.05
+52,0.4536,Greater Ward Rune,Socketable / Runes,0.01,-1,1.0,Greater Ward Rune,Runes,currency,0.090715,0.090715,21,0.110236,0.110236,0.05
+53,0.4493,Cowardly Fate,Keys ＆ Maps / Pinnacle Boss Keys,0.583,-1,1.0,Cowardly Fate,Fragments,currency,5.23926,5.23926,123,0.111275,0.111275,0.05
+54,0.4486,Omen of Dextral Erasure,Crafted Currency / Ritual Omens,1.177,-1,1.0,Omen of Dextral Erasure,Ritual Omens,currency,10.55969,10.55969,552,0.111462,0.111462,0.05
+55,0.4359,Essence of Horror,Crafted Currency / Essences,0.077,-1,1.0,Essence of Horror,Essences,currency,0.671256,0.671256,162,0.11471,0.11471,0.05
+56,0.4311,Warding Rune of Reinforcement,Socketable / Runes,0.02,-1,1.0,Warding Rune of Reinforcement,Runes,currency,0.172452,0.172452,43,0.115975,0.115975,0.05
+57,0.4272,Fenumus' Rune of Draining,Socketable / Runes,0.02,-1,1.0,Fenumus' Rune of Draining,Runes,currency,0.170869,0.170869,5,0.117049,0.117049,0.05
+58,0.4264,Omen of Whittling,Crafted Currency / Ritual Omens,1.21,-1,1.0,Omen of Whittling,Ritual Omens,currency,10.319333,10.319333,2840,0.117256,0.117256,0.05
+59,0.4162,Ratha's Assault,Skill Gems & Support Gems / Lineage Support Gems,0.0154,-1,1.0,Ratha's Assault,Lineage Support Gems,currency,0.128178,0.128178,4,0.120146,0.120146,0.05
+60,0.4097,Omen of Chance,Crafted Currency / Ritual Omens,3.08,-1,1.0,Omen of Chance,Ritual Omens,currency,25.240236,25.240236,81,0.122027,0.122027,0.05
+61,0.4053,Ward Rune,Socketable / Runes,0.03,-1,1.0,Ward Rune,Runes,currency,0.243156,0.243156,2,0.123377,0.123377,0.05
+62,0.3939,Omen of Sinistral Annulment,Crafted Currency / Ritual Omens,1.837,-1,1.0,Omen of Sinistral Annulment,Ritual Omens,currency,14.472651,14.472651,515,0.126929,0.126929,0.05
+63,0.3917,Emergent Protection,Socketable / Runes,0.04,-1,1.0,Emergent Protection,Expedition Coinage & Artifacts,currency,0.31337,0.31337,2,0.127645,0.127645,0.05
+64,0.3891,Carved Mischief,Socketable / Runes,0.05,-1,1.0,Carved Mischief,Expedition Coinage & Artifacts,currency,0.389124,0.389124,8,0.128494,0.128494,0.05
+65,0.3787,Rune of the Prism,Socketable / Runes,0.01,-1,1.0,Rune of the Prism,Runes,currency,0.07575,0.07575,17,0.132014,0.132014,0.05
+66,0.3782,Omen of Sinistral Erasure,Crafted Currency / Ritual Omens,1.837,-1,1.0,Omen of Sinistral Erasure,Ritual Omens,currency,13.893739,13.893739,552,0.132218,0.132218,0.05
+67,0.3647,Omen of Dextral Exaltation,Crafted Currency / Ritual Omens,0.0025,-1,1.0,Omen of Dextral Exaltation,Ritual Omens,currency,0.018453,0.018453,564,0.137103,0.137103,0.05
+68,0.3639,Betrayal of Aldur,Socketable / Runes,0.02,-1,1.0,Betrayal of Aldur,Runes,currency,0.145557,0.145557,3,0.137403,0.137403,0.05
+69,0.3608,Resolve Rune,Socketable / Runes,0.03,-1,1.0,Resolve Rune,Runes,currency,0.216468,0.216468,1,0.138588,0.138588,0.05
+70,0.3443,Tecrod's Gaze,Socketable / Gaze,1.07,-1,1.0,Tecrod's Gaze,Abyssal Bones,currency,7.367705,7.367705,38,0.145228,0.145228,0.05
+71,0.3367,Rigwald's Ferocity,Skill Gems & Support Gems / Lineage Support Gems,21.087,-1,1.0,Rigwald's Ferocity,Lineage Support Gems,currency,142.0,142.0,45,0.1485,0.1485,0.05
+72,0.3215,Omen of Secret Compartments,Crafted Currency / Ritual Omens,0.121,-1,1.0,Omen of Secret Compartments,Ritual Omens,currency,0.777959,0.777959,20,0.155535,0.155535,0.05
+73,0.3102,Omen of Light,Crafted Currency / Ritual Omens,2.057,-1,1.0,Omen of Light,Ritual Omens,currency,12.76226,12.76226,2122,0.161178,0.161178,0.05
+74,0.3089,Warding Rune of Symbiosis,Socketable / Runes,0.01,-1,1.0,Warding Rune of Symbiosis,Runes,currency,0.061779,0.061779,2,0.161867,0.161867,0.05
+75,0.3089,Saqawal's Rune of Erosion,Socketable / Runes,0.01,-1,1.0,Saqawal's Rune of Erosion,Runes,currency,0.061779,0.061779,2,0.161867,0.161867,0.05
+76,0.3023,Ancient Rune of the Horde,Socketable / Runes,0.02,-1,1.0,Ancient Rune of the Horde,Runes,currency,0.120918,0.120918,1,0.165401,0.165401,0.05
+77,0.3023,Ancient Rune of Decay,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Decay,Runes,currency,0.120918,0.120918,1,0.165401,0.165401,0.05
+78,0.3006,Aldur's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,6.996,-1,1.0,Aldur's Saga,Expedition Coinage & Artifacts,currency,42.06147,42.06147,193,0.166328,0.166328,0.05
+79,0.3,Perfect Charging Rune,Socketable / Runes,0.5,-1,1.0,Perfect Charging Rune,Runes,currency,3.0,3.0,2,0.166667,0.166667,0.05
+80,0.2984,Emergent Instinct,Socketable / Runes,0.11,-1,1.0,Emergent Instinct,Expedition Coinage & Artifacts,currency,0.656556,0.656556,6,0.167541,0.167541,0.05
+81,0.297,Warding Rune of Protection,Socketable / Runes,0.01,-1,1.0,Warding Rune of Protection,Runes,currency,0.059397,0.059397,2,0.168359,0.168359,0.05
+82,0.2944,Refined Xoph's Catalyst,Crafted Currency / Breach Catalysts,0.033,-1,1.0,Refined Xoph's Catalyst,Breach,currency,0.194306,0.194306,524,0.169835,0.169835,0.05
+83,0.2887,Einhar's Beastrite,Skill Gems & Support Gems / Lineage Support Gems,0.0418,-1,1.0,Einhar's Beastrite,Lineage Support Gems,currency,0.241363,0.241363,8,0.173183,0.173183,0.05
+84,0.2859,Perfect Adept Rune,Socketable / Runes,0.55,-1,1.0,Perfect Adept Rune,Runes,currency,3.144886,3.144886,4,0.174887,0.174887,0.05
+85,0.2843,Idol of the Sycophant,Socketable / Idol,0.01,-1,1.0,Idol of the Sycophant,Ritual Omens,currency,0.056864,0.056864,20,0.175859,0.175859,0.05
+86,0.2843,Courtesan Mannan's Rune of Cruelty,Socketable / Runes,0.01,-1,1.0,Courtesan Mannan's Rune of Cruelty,Runes,currency,0.056858,0.056858,16,0.175878,0.175878,0.05
+87,0.2823,Refined Skittering Catalyst,Crafted Currency / Breach Catalysts,0.033,-1,1.0,Refined Skittering Catalyst,Breach,currency,0.186303,0.186303,151,0.177131,0.177131,0.05
+88,0.2798,Garukhan's Resolve,Skill Gems & Support Gems / Lineage Support Gems,89.166,-1,1.0,Garukhan's Resolve,Lineage Support Gems,currency,498.90323,498.90323,31,0.178724,0.178724,0.05
+89,0.2795,Warding Rune of Glancing,Socketable / Runes,0.02,-1,1.0,Warding Rune of Glancing,Runes,currency,0.111802,0.111802,5,0.178888,0.178888,0.05
+90,0.2766,Perfect Ward Rune,Socketable / Runes,0.41,-1,1.0,Perfect Ward Rune,Runes,currency,2.267717,2.267717,6,0.180799,0.180799,0.05
+91,0.2748,Essence of Seeking,Crafted Currency / Essences,0.022,-1,1.0,Essence of Seeking,Essences,currency,0.120918,0.120918,1,0.181941,0.181941,0.05
+92,0.2735,Omen of Reinforcements,Crafted Currency / Ritual Omens,0.088,-1,1.0,Omen of Reinforcements,Ritual Omens,currency,0.481279,0.481279,16,0.182846,0.182846,0.05
+93,0.2725,Raven-Touched Shard,Socketable / Runes,14.87,-1,1.0,Raven-Touched Shard,Ritual Omens,currency,81.045456,81.045456,66,0.183477,0.183477,0.05
+94,0.2691,Xopec's Soul Core of Power,Socketable / Soul Cores,0.53,-1,1.0,Xopec's Soul Core of Power,Soul Cores,currency,2.852047,2.852047,17,0.185831,0.185831,0.05
+95,0.2673,Rune of Acrobatics,Socketable / Runes,0.02,-1,1.0,Rune of Acrobatics,Runes,currency,0.106914,0.106914,2,0.187066,0.187066,0.05
+96,0.2663,Perfect Mind Rune,Socketable / Runes,0.37,-1,1.0,Perfect Mind Rune,Runes,currency,1.970831,1.970831,41,0.187738,0.187738,0.05
+97,0.2653,Ixchel's Torment,Skill Gems & Support Gems / Lineage Support Gems,0.396,-1,1.0,Ixchel's Torment,Lineage Support Gems,currency,2.101565,2.101565,14,0.188431,0.188431,0.05
+98,0.2643,Perfect Vision Rune,Socketable / Runes,0.45,-1,1.0,Perfect Vision Rune,Runes,currency,2.378373,2.378373,11,0.189205,0.189205,0.05
+99,0.2636,Ire of Aldur,Socketable / Runes,0.05,-1,1.0,Ire of Aldur,Runes,currency,0.263627,0.263627,10,0.189662,0.189662,0.05
+100,0.2625,Omen of the Blackblooded,Crafted Currency / Ritual Omens,0.033,-1,1.0,Omen of the Blackblooded,Ritual Omens,currency,0.173235,0.173235,153,0.190492,0.190492,0.05
+101,0.2583,Refined Flesh Catalyst,Crafted Currency / Breach Catalysts,0.033,-1,1.0,Refined Flesh Catalyst,Breach,currency,0.170496,0.170496,444,0.193553,0.193553,0.05
+102,0.2576,Potent Liquid Melancholy,Crafted Currency / Distilled Items,0.011,-1,1.0,Potent Liquid Melancholy,Delirium,currency,0.056663,0.056663,44,0.194129,0.194129,0.05
+103,0.2555,Ancient Potent Liquid Contempt,Crafted Currency / Distilled Items,0.825,-1,1.0,Ancient Potent Liquid Contempt,Delirium,currency,4.216268,4.216268,251,0.195671,0.195671,0.05
+104,0.2534,Omen of Dextral Crystallisation,Crafted Currency / Ritual Omens,0.066,-1,1.0,Omen of Dextral Crystallisation,Ritual Omens,currency,0.334489,0.334489,820,0.197316,0.197316,0.05
+105,0.25,Perfect Body Rune,Socketable / Runes,0.4,-1,1.0,Perfect Body Rune,Runes,currency,2.0,2.0,3,0.2,0.2,0.05
+106,0.2498,Perfect Iron Rune,Socketable / Runes,0.35,-1,1.0,Perfect Iron Rune,Runes,currency,1.74886,1.74886,169,0.20013,0.20013,0.05
+107,0.2493,Essence of Enhancement,Crafted Currency / Essences,0.033,-1,1.0,Essence of Enhancement,Essences,currency,0.164551,0.164551,6,0.200545,0.200545,0.05
+108,0.2457,Perfect Robust Rune,Socketable / Runes,0.45,-1,1.0,Perfect Robust Rune,Runes,currency,2.211386,2.211386,22,0.203492,0.203492,0.05
+109,0.2456,Perfect Storm Rune,Socketable / Runes,0.4,-1,1.0,Perfect Storm Rune,Runes,currency,1.964528,1.964528,21,0.203611,0.203611,0.05
+110,0.24,Lesser Essence of Thawing,Crafted Currency / Essences,0.011,-1,1.0,Lesser Essence of Thawing,Essences,currency,0.052797,0.052797,1,0.208344,0.208344,0.05
+111,0.2384,Perfect Glacial Rune,Socketable / Runes,0.4,-1,1.0,Perfect Glacial Rune,Runes,currency,1.906886,1.906886,18,0.209766,0.209766,0.05
+112,0.2381,Potent Liquid Ferocity,Crafted Currency / Distilled Items,0.429,-1,1.0,Potent Liquid Ferocity,Delirium,currency,2.043055,2.043055,426,0.20998,0.20998,0.05
+113,0.2363,Perfect Desert Rune,Socketable / Runes,0.4,-1,1.0,Perfect Desert Rune,Runes,currency,1.890397,1.890397,11,0.211596,0.211596,0.05
+114,0.2351,Perfect Resolve Rune,Socketable / Runes,0.45,-1,1.0,Perfect Resolve Rune,Runes,currency,2.116253,2.116253,14,0.21264,0.21264,0.05
+115,0.232,Perfect Rebirth Rune,Socketable / Runes,0.45,-1,1.0,Perfect Rebirth Rune,Runes,currency,2.088263,2.088263,2,0.21549,0.21549,0.05
+116,0.2287,Omen of Sanctification,Crafted Currency / Ritual Omens,0.132,-1,1.0,Omen of Sanctification,Ritual Omens,currency,0.603855,0.603855,196,0.218595,0.218595,0.05
+117,0.2282,Warding Rune of Heart,Socketable / Runes,0.02,-1,1.0,Warding Rune of Heart,Runes,currency,0.091262,0.091262,20,0.21915,0.21915,0.05
+118,0.228,Refined Esh's Catalyst,Crafted Currency / Breach Catalysts,0.044,-1,1.0,Refined Esh's Catalyst,Breach,currency,0.200671,0.200671,323,0.219265,0.219265,0.05
+119,0.2279,Ancient Rune of Splinters,Socketable / Runes,0.01,-1,1.0,Ancient Rune of Splinters,Runes,currency,0.045586,0.045586,3,0.219367,0.219367,0.05
+120,0.2222,Perfect Stone Rune,Socketable / Runes,0.45,-1,1.0,Perfect Stone Rune,Runes,currency,2.0,2.0,1,0.225,0.225,0.05
+121,0.2222,Perfect Inspiration Rune,Socketable / Runes,0.45,-1,1.0,Perfect Inspiration Rune,Runes,currency,2.0,2.0,2,0.225,0.225,0.05
+122,0.2209,Zarokh's Refrain,Skill Gems & Support Gems / Lineage Support Gems,0.0363,-1,1.0,Zarokh's Refrain,Lineage Support Gems,currency,0.160388,0.160388,9,0.226325,0.226325,0.05
+123,0.2189,Carved Cunning,Socketable / Runes,0.99,-1,1.0,Carved Cunning,Expedition Coinage & Artifacts,currency,4.333334,4.333334,3,0.228462,0.228462,0.05
+124,0.2182,Greater Rune of Alacrity,Socketable / Runes,0.21,-1,1.0,Greater Rune of Alacrity,Runes,currency,0.916269,0.916269,20,0.22919,0.22919,0.05
+125,0.2164,Sibilant Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Sibilant Catalyst,Breach,currency,0.285657,0.285657,3036,0.231046,0.231046,0.05
+126,0.2156,Adept Rune,Socketable / Runes,0.03,-1,1.0,Adept Rune,Runes,currency,0.129353,0.129353,1,0.231923,0.231923,0.05
+127,0.2108,Glacial Rune,Socketable / Runes,0.03,-1,1.0,Glacial Rune,Runes,currency,0.126507,0.126507,5,0.237141,0.237141,0.05
+128,0.2096,Omen of Sinistral Exaltation,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Sinistral Exaltation,Ritual Omens,currency,0.046123,0.046123,597,0.238494,0.238494,0.05
+129,0.2021,Idol of the Martyr,Socketable / Idol,0.02,-1,1.0,Idol of the Martyr,Ritual Omens,currency,0.080857,0.080857,14,0.247351,0.247351,0.05
+130,0.2002,Omen of Bartering,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Bartering,Ritual Omens,currency,0.044042,0.044042,7516,0.249763,0.249763,0.05
+131,0.1999,Lesser Iron Rune,Socketable / Runes,0.03,-1,1.0,Lesser Iron Rune,Runes,currency,0.119955,0.119955,25,0.250093,0.250093,0.05
+132,0.1999,Soul Core of Ticaba,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Ticaba,Soul Cores,currency,0.279831,0.279831,16,0.250151,0.250151,0.05
+133,0.198,Rune of Vitality,Socketable / Runes,0.02,-1,1.0,Rune of Vitality,Runes,currency,0.079196,0.079196,1,0.252539,0.252539,0.05
+134,0.198,idol of Maxarius,Socketable / Idol,0.01,-1,1.0,Idol of Maxarius,Idols,currency,0.039598,0.039598,3,0.252539,0.252539,0.05
+135,0.1977,Storm Rune,Socketable / Runes,0.02,-1,1.0,Storm Rune,Runes,currency,0.079072,0.079072,88,0.252935,0.252935,0.05
+136,0.1977,Guatelitzi's Soul Core of Endurance,Socketable / Soul Cores,0.04,-1,1.0,Guatelitzi's Soul Core of Endurance,Soul Cores,currency,0.158134,0.158134,4,0.25295,0.25295,0.05
+137,0.1952,Arakaali's Lust,Skill Gems & Support Gems / Lineage Support Gems,0.0055,-1,1.0,Arakaali's Lust,Lineage Support Gems,currency,0.021473,0.021473,6,0.256136,0.256136,0.05
+138,0.1938,Mystic Alloy,Crafted Currency / Alloy,0.011,-1,1.0,Mystic Alloy,Verisium,currency,0.042637,0.042637,179,0.25799,0.25799,0.05
+139,0.1935,Refined Neural Catalyst,Crafted Currency / Breach Catalysts,0.044,-1,1.0,Refined Neural Catalyst,Breach,currency,0.170265,0.170265,483,0.25842,0.25842,0.05
+140,0.1915,Soul Core of Azcapa,Socketable / Soul Cores,0.53,-1,1.0,Soul Core of Azcapa,Soul Cores,currency,2.030282,2.030282,15,0.261048,0.261048,0.05
+141,0.1907,Arbiter's Ignition,Skill Gems & Support Gems / Lineage Support Gems,0.451,-1,1.0,Arbiter's Ignition,Lineage Support Gems,currency,1.72039,1.72039,30,0.26215,0.26215,0.05
+142,0.1897,Fox idol,Socketable / Idol,0.32,-1,1.0,Fox Idol,Idols,currency,1.214118,1.214118,82,0.263566,0.263566,0.05
+143,0.1888,Idol of Eramir,Socketable / Idol,0.09,-1,1.0,Idol of Eramir,Ritual Omens,currency,0.339827,0.339827,48,0.26484,0.26484,0.05
+144,0.1844,Uruk's Smelting,Skill Gems & Support Gems / Lineage Support Gems,0.0297,-1,1.0,Uruk's Smelting,Lineage Support Gems,currency,0.109547,0.109547,29,0.271116,0.271116,0.05
+145,0.1815,Rune of Reach,Socketable / Runes,0.02,-1,1.0,Rune of Reach,Runes,currency,0.072596,0.072596,2,0.275497,0.275497,0.05
+146,0.1809,Aldur's Legacy,Socketable / Legacy,52.68,-1,1.0,Aldur's Legacy,Runes,currency,190.57895,190.57895,38,0.276421,0.276421,0.05
+147,0.1806,Omen of Resurgence,Crafted Currency / Ritual Omens,0.0055,-1,1.0,Omen of Resurgence,Ritual Omens,currency,0.019863,0.019863,1744,0.276901,0.276901,0.05
+148,0.1805,Omen of the Hunt,Crafted Currency / Ritual Omens,0.198,-1,1.0,Omen of the Hunt,Ritual Omens,currency,0.714887,0.714887,16,0.276967,0.276967,0.05
+149,0.1803,Perfect Essence of Enhancement,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Enhancement,Essences,currency,0.039677,0.039677,224,0.277241,0.277241,0.05
+150,0.18,Essence of Electricity,Crafted Currency / Essences,0.022,-1,1.0,Essence of Electricity,Essences,currency,0.079196,0.079196,2,0.277793,0.277793,0.05
+151,0.1792,Rakiata's Flow,Skill Gems & Support Gems / Lineage Support Gems,35.552,-1,1.0,Rakiata's Flow,Lineage Support Gems,currency,127.38393,127.38393,112,0.279093,0.279093,0.05
+152,0.1776,Essence of Grounding,Crafted Currency / Essences,0.055,-1,1.0,Essence of Grounding,Essences,currency,0.19535,0.19535,1,0.281547,0.281547,0.05
+153,0.1774,Carved Tenacity,Socketable / Runes,0.27,-1,1.0,Carved Tenacity,Expedition Coinage & Artifacts,currency,0.957949,0.957949,10,0.281852,0.281852,0.05
+154,0.177,Perfect Essence of Opulence,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Opulence,Essences,currency,0.038932,0.038932,61,0.282543,0.282543,0.05
+155,0.1726,Ahn's Citadel,Skill Gems & Support Gems / Lineage Support Gems,0.0363,-1,1.0,Ahn's Citadel,Lineage Support Gems,currency,0.125333,0.125333,16,0.289628,0.289628,0.05
+156,0.172,Ancient Potent Liquid Ferocity,Crafted Currency / Distilled Items,0.011,-1,1.0,Ancient Potent Liquid Ferocity,Delirium,currency,0.037838,0.037838,3,0.290713,0.290713,0.05
+157,0.169,Rune of Foundations,Socketable / Runes,0.04,-1,1.0,Rune of Foundations,Runes,currency,0.135225,0.135225,44,0.295804,0.295804,0.05
+158,0.169,Warding Rune of Stability,Socketable / Runes,0.01,-1,1.0,Warding Rune of Stability,Runes,currency,0.03379,0.03379,5,0.295944,0.295944,0.05
+159,0.1662,Sione's Temper,Skill Gems & Support Gems / Lineage Support Gems,0.0902,-1,1.0,Sione's Temper,Lineage Support Gems,currency,0.299821,0.299821,50,0.300846,0.300846,0.05
+160,0.1644,Rabbit idol,Socketable / Idol,0.12,-1,1.0,Rabbit Idol,Idols,currency,0.394509,0.394509,86,0.304176,0.304176,0.05
+161,0.1627,Masterwork Rune,Socketable / Runes,0.24,-1,1.0,Masterwork Rune,Runes,currency,0.780789,0.780789,725,0.307381,0.307381,0.05
+162,0.16,Lesser Essence of Abrasion,Crafted Currency / Essences,0.022,-1,1.0,Lesser Essence of Abrasion,Essences,currency,0.070396,0.070396,3,0.312517,0.312517,0.05
+163,0.16,Fenumus' Rune of Spinning,Socketable / Runes,0.01,-1,1.0,Fenumus' Rune of Spinning,Runes,currency,0.031996,0.031996,15,0.31254,0.31254,0.05
+164,0.1586,Omen of the Ancients,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of the Ancients,Ritual Omens,currency,0.034884,0.034884,787,0.315332,0.315332,0.05
+165,0.1571,Thaumaturgic Flux (Level 8),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 8),Expedition Coinage & Artifacts,currency,0.518479,0.518479,2,0.318239,0.318239,0.05
+166,0.1508,Craiceann's Rune of Warding,Socketable / Runes,0.03,-1,1.0,Craiceann's Rune of Warding,Runes,currency,0.09046,0.09046,18,0.331639,0.331639,0.05
+167,0.15,Essence of the Infinite,Crafted Currency / Essences,0.022,-1,1.0,Essence of the Infinite,Essences,currency,0.065996,0.065996,1,0.333351,0.333351,0.05
+168,0.1484,Greater Mind Rune,Socketable / Runes,0.01,-1,1.0,Greater Mind Rune,Runes,currency,0.029682,0.029682,46,0.336901,0.336901,0.05
+169,0.1475,Soul Core of Zalatl,Socketable / Soul Cores,0.11,-1,1.0,Soul Core of Zalatl,Soul Cores,currency,0.324591,0.324591,31,0.338888,0.338888,0.05
+170,0.1452,Ancient Rune of Detonation,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Detonation,Runes,currency,0.058077,0.058077,3,0.344371,0.344371,0.05
+171,0.1443,Iron Rune,Socketable / Runes,0.03,-1,1.0,Iron Rune,Runes,currency,0.086607,0.086607,178,0.346394,0.346394,0.05
+172,0.1433,Omen of the Blessed,Crafted Currency / Ritual Omens,0.044,-1,1.0,Omen of the Blessed,Ritual Omens,currency,0.126094,0.126094,796,0.348945,0.348945,0.05
+173,0.1423,Zalatl's Soul Core of Insulation,Socketable / Soul Cores,0.02,-1,1.0,Zalatl's Soul Core of Insulation,Soul Cores,currency,0.056916,0.056916,30,0.351395,0.351395,0.05
+174,0.141,Ancient Crisis Fragment,Keys ＆ Maps / Pinnacle Boss Keys,0.495,-1,1.0,Ancient Crisis Fragment,Fragments,currency,1.396278,1.396278,731,0.354514,0.354514,0.05
+175,0.1402,idol of Egrin,Socketable / Idol,0.02,-1,1.0,Idol of Egrin,Idols,currency,0.056074,0.056074,10,0.356669,0.356669,0.05
+176,0.1393,idol of Eeshta,Socketable / Idol,0.05,-1,1.0,Idol of Eeshta,Idols,currency,0.13926,0.13926,46,0.35904,0.35904,0.05
+177,0.1374,Omen of Chaotic Effectiveness,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Chaotic Effectiveness,Ritual Omens,currency,0.060455,0.060455,3495,0.363904,0.363904,0.05
+178,0.137,Skittering Catalyst,Crafted Currency / Breach Catalysts,0.022,-1,1.0,Skittering Catalyst,Breach,currency,0.0603,0.0603,1285,0.36484,0.36484,0.05
+179,0.1368,Snake idol,Socketable / Idol,0.01,-1,1.0,Snake Idol,Ritual Omens,currency,0.027351,0.027351,5,0.365611,0.365611,0.05
+180,0.1335,Rune of Accumulation,Socketable / Runes,0.02,-1,1.0,Rune of Accumulation,Runes,currency,0.053404,0.053404,7,0.374503,0.374503,0.05
+181,0.132,Bear idol,Socketable / Idol,0.01,-1,1.0,Bear Idol,Idols,currency,0.026399,0.026399,16,0.378808,0.378808,0.05
+182,0.132,Lesser Resolve Rune,Socketable / Runes,0.03,-1,1.0,Lesser Resolve Rune,Runes,currency,0.079196,0.079196,3,0.378808,0.378808,0.05
+183,0.1307,Essence of the Breach,Crafted Currency / Essences,0.044,-1,1.0,Essence of the Breach,Essences,currency,0.114993,0.114993,346,0.382633,0.382633,0.05
+184,0.1287,Olroth's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Olroth's Saga,Expedition Coinage & Artifacts,currency,0.283157,0.283157,89,0.388477,0.388477,0.05
+185,0.1246,Omen of Amelioration,Crafted Currency / Ritual Omens,0.044,-1,1.0,Omen of Amelioration,Ritual Omens,currency,0.109634,0.109634,3511,0.401337,0.401337,0.05
+186,0.1244,Saqawal's Rune of the Sky,Socketable / Runes,0.05,-1,1.0,Saqawal's Rune of the Sky,Runes,currency,0.124442,0.124442,100,0.401795,0.401795,0.05
+187,0.1225,Tul's Stillness,Skill Gems & Support Gems / Lineage Support Gems,36.146,-1,1.0,Tul's Stillness,Lineage Support Gems,currency,88.52631,88.52631,19,0.408308,0.408308,0.05
+188,0.1221,Greater Robust Rune,Socketable / Runes,0.01,-1,1.0,Greater Robust Rune,Runes,currency,0.024419,0.024419,4,0.409522,0.409522,0.05
+189,0.1209,Rune of the Hunt,Socketable / Runes,0.02,-1,1.0,Rune of the Hunt,Runes,currency,0.04835,0.04835,14,0.413652,0.413652,0.05
+190,0.12,Omen of Dextral Necromancy,Crafted Currency / Ritual Omens,0.0055,-1,1.0,Omen of Dextral Necromancy,Ritual Omens,currency,0.0132,0.0132,2034,0.416676,0.416676,0.05
+191,0.1194,Omen of Sinistral Crystallisation,Crafted Currency / Ritual Omens,0.077,-1,1.0,Omen of Sinistral Crystallisation,Ritual Omens,currency,0.183889,0.183889,650,0.418732,0.418732,0.05
+192,0.1189,Essence of the Abyss,Crafted Currency / Essences,0.022,-1,1.0,Essence of the Abyss,Essences,currency,0.052327,0.052327,459,0.420437,0.420437,0.05
+193,0.1188,Mind Rune,Socketable / Runes,0.01,-1,1.0,Mind Rune,Runes,currency,0.023759,0.023759,1,0.420898,0.420898,0.05
+194,0.1184,Primate idol,Socketable / Idol,0.01,-1,1.0,Primate Idol,Idols,currency,0.023676,0.023676,28,0.422364,0.422364,0.05
+195,0.1176,Ancient Concentrated Liquid Isolation,Crafted Currency / Distilled Items,0.011,-1,1.0,Ancient Concentrated Liquid Isolation,Delirium,currency,0.025873,0.025873,12,0.425158,0.425158,0.05
+196,0.1166,Rebirth Rune,Socketable / Runes,0.03,-1,1.0,Rebirth Rune,Runes,currency,0.069956,0.069956,2,0.428839,0.428839,0.05
+197,0.1158,Greater Rune of Tithing,Socketable / Runes,0.38,-1,1.0,Greater Rune of Tithing,Runes,currency,0.879762,0.879762,19,0.431935,0.431935,0.05
+198,0.1149,Robust Rune,Socketable / Runes,0.03,-1,1.0,Robust Rune,Runes,currency,0.06893,0.06893,9,0.435226,0.435226,0.05
+199,0.1138,Warding Rune of Hollowing,Socketable / Runes,0.02,-1,1.0,Warding Rune of Hollowing,Runes,currency,0.045538,0.045538,4,0.439198,0.439198,0.05
+200,0.1112,idol of Grold,Socketable / Idol,0.03,-1,1.0,Idol of Grold,Idols,currency,0.066705,0.066705,3,0.449744,0.449744,0.05
+201,0.1111,Ailith's Chimes,Skill Gems & Support Gems / Lineage Support Gems,0.1089,-1,1.0,Ailith's Chimes,Lineage Support Gems,currency,0.242074,0.242074,49,0.449862,0.449862,0.05
+202,0.1101,Estazunti's Soul Core of Convalescence,Socketable / Soul Cores,0.04,-1,1.0,Estazunti's Soul Core of Convalescence,Soul Cores,currency,0.088116,0.088116,28,0.453946,0.453946,0.05
+203,0.108,Doedre's Undoing,Skill Gems & Support Gems / Lineage Support Gems,0.0539,-1,1.0,Doedre's Undoing,Lineage Support Gems,currency,0.116371,0.116371,22,0.463175,0.463175,0.05
+204,0.1077,Ancient Concentrated Liquid Suffering,Crafted Currency / Distilled Items,0.011,-1,1.0,Ancient Concentrated Liquid Suffering,Delirium,currency,0.023694,0.023694,16,0.464246,0.464246,0.05
+205,0.1064,Tzamoto's Soul Core of Ferocity,Socketable / Soul Cores,0.15,-1,1.0,Tzamoto's Soul Core of Ferocity,Soul Cores,currency,0.319204,0.319204,39,0.469919,0.469919,0.05
+206,0.1013,Perfect Essence of Haste,Crafted Currency / Essences,0.033,-1,1.0,Perfect Essence of Haste,Essences,currency,0.066868,0.066868,232,0.493509,0.493509,0.05
+207,0.1007,Greater Iron Rune,Socketable / Runes,0.01,-1,1.0,Greater Iron Rune,Runes,currency,0.020139,0.020139,520,0.496554,0.496554,0.05
+208,0.1007,Greater Essence of Ruin,Crafted Currency / Essences,0.011,-1,1.0,Greater Essence of Ruin,Essences,currency,0.022145,0.022145,157,0.496725,0.496725,0.05
+209,0.0997,The Greatwolf's Rune of Claws,Socketable / Runes,0.02,-1,1.0,The Greatwolf's Rune of Claws,Runes,currency,0.039891,0.039891,9,0.501364,0.501364,0.05
+210,0.099,Sovereign Alloy,Crafted Currency / Alloy,0.088,-1,1.0,Sovereign Alloy,Verisium,currency,0.174268,0.174268,126,0.504969,0.504969,0.05
+211,0.099,Saqawal's Rune of Memory,Socketable / Runes,0.02,-1,1.0,Saqawal's Rune of Memory,Runes,currency,0.039598,0.039598,4,0.505077,0.505077,0.05
+212,0.096,Thaumaturgic Flux (Level 10),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 10),Expedition Coinage & Artifacts,currency,0.316783,0.316783,1,0.520861,0.520861,0.05
+213,0.0955,Amanamu's Gaze,Socketable / Gaze,0.24,-1,1.0,Amanamu's Gaze,Abyssal Bones,currency,0.458261,0.458261,40,0.52372,0.52372,0.05
+214,0.093,Lesser Essence of Flames,Crafted Currency / Essences,0.044,-1,1.0,Lesser Essence of Flames,Essences,currency,0.081836,0.081836,8,0.537663,0.537663,0.05
+215,0.0926,Weathered Crisis Fragment,Keys ＆ Maps / Pinnacle Boss Keys,0.495,-1,1.0,Weathered Crisis Fragment,Fragments,currency,0.916372,0.916372,862,0.540173,0.540173,0.05
+216,0.0909,Idol of the Pharisee,Socketable / Idol,0.03,-1,1.0,Idol of the Pharisee,Ritual Omens,currency,0.054557,0.054557,6,0.549883,0.549883,0.05
+217,0.0904,Transcendent Alloy,Crafted Currency / Alloy,0.077,-1,1.0,Transcendent Alloy,Verisium,currency,0.139284,0.139284,87,0.552829,0.552829,0.05
+218,0.09,Expedition Logbook,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.99,-1,1.0,Expedition Logbook,Expedition Coinage & Artifacts,currency,1.782155,1.782155,1031,0.555507,0.555507,0.05
+219,0.0886,Head of the King,Keys ＆ Maps / Pinnacle Boss Keys,2.046,-1,1.0,Head of the King,Ritual Omens,currency,3.624397,3.624397,734,0.564508,0.564508,0.05
+220,0.0886,Thane Grannell's Rune of Mastery,Socketable / Runes,0.02,-1,1.0,Thane Grannell's Rune of Mastery,Runes,currency,0.035421,0.035421,23,0.564635,0.564635,0.05
+221,0.088,The Greatwolf's Rune of Willpower,Socketable / Runes,0.02,-1,1.0,The Greatwolf's Rune of Willpower,Runes,currency,0.035198,0.035198,12,0.568212,0.568212,0.05
+222,0.0879,Kurgal's Leash,Skill Gems & Support Gems / Lineage Support Gems,0.0154,-1,1.0,Kurgal's Leash,Lineage Support Gems,currency,0.027068,0.027068,15,0.568933,0.568933,0.05
+223,0.0873,Perfect Essence of Battle,Crafted Currency / Essences,0.022,-1,1.0,Perfect Essence of Battle,Essences,currency,0.038391,0.038391,90,0.573052,0.573052,0.05
+224,0.0869,Vision Rune,Socketable / Runes,0.03,-1,1.0,Vision Rune,Runes,currency,0.052137,0.052137,4,0.575405,0.575405,0.05
+225,0.0849,Lesser Glacial Rune,Socketable / Runes,0.03,-1,1.0,Lesser Glacial Rune,Runes,currency,0.050934,0.050934,51,0.589,0.589,0.05
+226,0.0847,Idol of Kraityn,Socketable / Idol,0.02,-1,1.0,Idol of Kraityn,Ritual Omens,currency,0.033878,0.033878,6,0.59035,0.59035,0.05
+227,0.0842,Ox idol,Socketable / Idol,0.01,-1,1.0,Ox Idol,Idols,currency,0.016844,0.016844,10,0.593699,0.593699,0.05
+228,0.082,Essence of Command,Crafted Currency / Essences,0.022,-1,1.0,Essence of Command,Essences,currency,0.036078,0.036078,3,0.609789,0.609789,0.05
+229,0.0819,Greater Rune of Leadership,Socketable / Runes,0.62,-1,1.0,Greater Rune of Leadership,Runes,currency,1.01591,1.01591,24,0.61029,0.61029,0.05
+230,0.0813,Omen of Abyssal Echoes,Crafted Currency / Ritual Omens,0.198,-1,1.0,Omen of Abyssal Echoes,Ritual Omens,currency,0.321986,0.321986,4747,0.614933,0.614933,0.05
+231,0.081,Essence of the Body,Crafted Currency / Essences,0.011,-1,1.0,Essence of the Body,Essences,currency,0.017819,0.017819,4,0.617317,0.617317,0.05
+232,0.0808,Lesser Storm Rune,Socketable / Runes,0.03,-1,1.0,Lesser Storm Rune,Runes,currency,0.048507,0.048507,8,0.618462,0.618462,0.05
+233,0.0805,Fenumus' Rune of Agony,Socketable / Runes,0.04,-1,1.0,Fenumus' Rune of Agony,Runes,currency,0.064418,0.064418,39,0.620944,0.620944,0.05
+234,0.0796,Soul Core of Xopec,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Xopec,Soul Cores,currency,0.111428,0.111428,44,0.628208,0.628208,0.05
+235,0.0766,Farrul's Rune of the Hunt,Socketable / Runes,0.02,-1,1.0,Farrul's Rune of the Hunt,Runes,currency,0.030633,0.030633,61,0.65289,0.65289,0.05
+236,0.076,Essence of Haste,Crafted Currency / Essences,0.011,-1,1.0,Essence of Haste,Essences,currency,0.016719,0.016719,3,0.65793,0.65793,0.05
+237,0.0754,Greater Essence of Seeking,Crafted Currency / Essences,0.011,-1,1.0,Greater Essence of Seeking,Essences,currency,0.016593,0.016593,21,0.662914,0.662914,0.05
+238,0.0726,Thane Girt's Rune of Wildness,Socketable / Runes,0.01,-1,1.0,Thane Girt's Rune of Wildness,Runes,currency,0.014519,0.014519,10,0.688742,0.688742,0.05
+239,0.0725,Greater Essence of Opulence,Crafted Currency / Essences,0.033,-1,1.0,Greater Essence of Opulence,Essences,currency,0.047846,0.047846,179,0.689711,0.689711,0.05
+240,0.0712,idol of Sirrius,Socketable / Idol,0.15,-1,1.0,Idol of Sirrius,Idols,currency,0.213682,0.213682,99,0.701978,0.701978,0.05
+241,0.0699,Countess Seske's Rune of Archery,Socketable / Runes,0.05,-1,1.0,Countess Seske's Rune of Archery,Runes,currency,0.069906,0.069906,35,0.71525,0.71525,0.05
+242,0.0693,Essence of Hysteria,Crafted Currency / Essences,0.473,-1,1.0,Essence of Hysteria,Essences,currency,0.655204,0.655204,130,0.721912,0.721912,0.05
+243,0.0684,Soul Core of Zantipi,Socketable / Soul Cores,0.13,-1,1.0,Soul Core of Zantipi,Soul Cores,currency,0.177809,0.177809,21,0.731123,0.731123,0.05
+244,0.0682,Omen of Catalysing Exaltation,Crafted Currency / Ritual Omens,0.022,-1,1.0,Omen of Catalysing Exaltation,Ritual Omens,currency,0.030025,0.030025,299,0.732732,0.732732,0.05
+245,0.0668,Soul Core of Quipolatl,Socketable / Soul Cores,1.28,-1,1.0,Soul Core of Quipolatl,Soul Cores,currency,1.709481,1.709481,57,0.748765,0.748765,0.05
+246,0.066,Desert Rune,Socketable / Runes,0.01,-1,1.0,Desert Rune,Runes,currency,0.013199,0.013199,8,0.757616,0.757616,0.05
+247,0.0652,Serle's Triumph,Socketable / Runes,1.21,-1,1.0,Serle's Triumph,Runes,currency,1.57777,1.57777,43,0.766905,0.766905,0.05
+248,0.064,Thaumaturgic Flux (Level 9),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 9),Expedition Coinage & Artifacts,currency,0.211189,0.211189,1,0.781292,0.781292,0.05
+249,0.0627,Hedgewitch Assandra's Rune of Wisdom,Socketable / Runes,0.09,-1,1.0,Hedgewitch Assandra's Rune of Wisdom,Runes,currency,0.112948,0.112948,119,0.796825,0.796825,0.05
+250,0.0627,Perfect Essence of Seeking,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Seeking,Essences,currency,0.013795,0.013795,28,0.797393,0.797393,0.05
+251,0.0625,Ancient Potent Liquid Melancholy,Crafted Currency / Distilled Items,0.044,-1,1.0,Ancient Potent Liquid Melancholy,Delirium,currency,0.054964,0.054964,49,0.800522,0.800522,0.05
+252,0.0624,Topotante's Soul Core of Dampening,Socketable / Soul Cores,0.01,-1,1.0,Topotante's Soul Core of Dampening,Soul Cores,currency,0.012478,0.012478,30,0.801401,0.801401,0.05
+253,0.0616,Lesser Desert Rune,Socketable / Runes,0.03,-1,1.0,Lesser Desert Rune,Runes,currency,0.036958,0.036958,1,0.811731,0.811731,0.05
+254,0.0612,Thaumaturgic Flux (Level 11),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 11),Expedition Coinage & Artifacts,currency,0.201949,0.201949,2,0.817037,0.817037,0.05
+255,0.0607,Concentrated Liquid Suffering,Crafted Currency / Distilled Items,0.1529,-1,1.0,Concentrated Liquid Suffering,Delirium,currency,0.185718,0.185718,127,0.823292,0.823292,0.05
+256,0.06,Concentrated Liquid Fear,Crafted Currency / Distilled Items,0.0715,-1,1.0,Concentrated Liquid Fear,Delirium,currency,0.085839,0.085839,161,0.832951,0.832951,0.05
+257,0.06,Lesser Essence of Sorcery,Crafted Currency / Essences,0.055,-1,1.0,Lesser Essence of Sorcery,Essences,currency,0.065996,0.065996,1,0.833378,0.833378,0.05
+258,0.0577,Warding Rune of Equinox,Socketable / Runes,0.04,-1,1.0,Warding Rune of Equinox,Runes,currency,0.046198,0.046198,2,0.865847,0.865847,0.05
+259,0.0571,Rune of the Blossom,Socketable / Runes,0.04,-1,1.0,Rune of the Blossom,Runes,currency,0.045693,0.045693,24,0.875405,0.875405,0.05
+260,0.0566,Lesser Adept Rune,Socketable / Runes,0.07,-1,1.0,Lesser Adept Rune,Runes,currency,0.079196,0.079196,4,0.883885,0.883885,0.05
+261,0.0543,Perfect Essence of Sorcery,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Sorcery,Essences,currency,0.011952,0.011952,96,0.920365,0.920365,0.05
+262,0.054,Essence of Insanity,Crafted Currency / Essences,0.022,-1,1.0,Essence of Insanity,Essences,currency,0.023759,0.023759,15,0.925975,0.925975,0.05
+263,0.0534,Ancient Concentrated Liquid Fear,Crafted Currency / Distilled Items,0.011,-1,1.0,Ancient Concentrated Liquid Fear,Delirium,currency,0.011738,0.011738,13,0.937112,0.937112,0.05
+264,0.0528,Rune of Culmination,Socketable / Runes,0.02,-1,1.0,Rune of Culmination,Runes,currency,0.021119,0.021119,2,0.94702,0.94702,0.05
+265,0.0523,Lesser Essence of Electricity,Crafted Currency / Essences,0.022,-1,1.0,Lesser Essence of Electricity,Essences,currency,0.023004,0.023004,7,0.956335,0.956335,0.05
+266,0.0509,Medved's Tending,Socketable / Runes,0.12,-1,1.0,Medved's Tending,Runes,currency,0.122207,0.122207,13,0.981942,0.981942,0.05
+267,0.0509,idol of Thruldana,Socketable / Idol,0.02,-1,1.0,Idol of Thruldana,Idols,currency,0.020365,0.020365,7,0.982095,0.982095,0.05
+268,0.0509,Greater Resolve Rune,Socketable / Runes,0.01,-1,1.0,Greater Resolve Rune,Runes,currency,0.010176,0.010176,22,0.982702,0.982702,0.05
+269,0.0492,Quipolatl's Soul Core of Flow,Socketable / Soul Cores,0.17,-1,1.0,Quipolatl's Soul Core of Flow,Soul Cores,currency,0.16737,0.16737,20,1.015712,1.015712,0.05
+270,0.048,Omen of Greater Exaltation,Crafted Currency / Ritual Omens,0.011,-1,1.0,Omen of Greater Exaltation,Ritual Omens,currency,0.010568,0.010568,1686,1.04086,1.04086,0.05
+271,0.048,Perfect Essence of Ice,Crafted Currency / Essences,0.011,-1,1.0,Perfect Essence of Ice,Essences,currency,0.010559,0.010559,1,1.041722,1.041722,0.05
+272,0.0465,Soul Core of Citaqualotl,Socketable / Soul Cores,0.12,-1,1.0,Soul Core of Citaqualotl,Soul Cores,currency,0.111499,0.111499,190,1.076246,1.076246,0.05
+273,0.0452,Chilling Flux,Crafted Currency / Flux,0.077,-1,1.0,Chilling Flux,Expedition Coinage & Artifacts,currency,0.069639,0.069639,125,1.105708,1.105708,0.05
+274,0.0439,Lesser Robust Rune,Socketable / Runes,0.17,-1,1.0,Lesser Robust Rune,Runes,currency,0.149152,0.149152,2,1.139776,1.139776,0.05
+275,0.0437,Refined Chayula's Catalyst,Crafted Currency / Breach Catalysts,0.198,-1,1.0,Refined Chayula's Catalyst,Breach,currency,0.172935,0.172935,174,1.144942,1.144942,0.05
+276,0.0433,Lesser Body Rune,Socketable / Runes,0.03,-1,1.0,Lesser Body Rune,Runes,currency,0.025959,0.025959,6,1.155686,1.155686,0.05
+277,0.0423,Kolr's Hunt,Socketable / Runes,0.36,-1,1.0,Kolr's Hunt,Runes,currency,0.304245,0.304245,121,1.183255,1.183255,0.05
+278,0.0398,Soul Core of Topotante,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Topotante,Soul Cores,currency,0.055677,0.055677,263,1.25725,1.25725,0.05
+279,0.0393,Craiceann's Rune of Recovery,Socketable / Runes,0.02,-1,1.0,Craiceann's Rune of Recovery,Runes,currency,0.015724,0.015724,23,1.27191,1.27191,0.05
+280,0.0373,Farrul's Rune of the Chase,Socketable / Runes,0.11,-1,1.0,Farrul's Rune of the Chase,Runes,currency,0.082096,0.082096,84,1.339901,1.339901,0.05
+281,0.0361,Atmohua's Soul Core of Retreat,Socketable / Soul Cores,0.02,-1,1.0,Atmohua's Soul Core of Retreat,Soul Cores,currency,0.014441,0.014441,43,1.384985,1.384985,0.05
+282,0.0359,Katla's Gloom,Socketable / Runes,0.24,-1,1.0,Katla's Gloom,Runes,currency,0.172344,0.172344,19,1.39256,1.39256,0.05
+283,0.0358,Reaver Catalyst,Crafted Currency / Breach Catalysts,0.187,-1,1.0,Reaver Catalyst,Breach,currency,0.133983,0.133983,2721,1.3957,1.3957,0.05
+284,0.0356,Kalisa's Crescendo,Skill Gems & Support Gems / Lineage Support Gems,0.0297,-1,1.0,Kalisa's Crescendo,Lineage Support Gems,currency,0.021119,0.021119,2,1.406325,1.406325,0.05
+285,0.0351,Vorana's Carnage,Socketable / Runes,0.07,-1,1.0,Vorana's Carnage,Runes,currency,0.049076,0.049076,19,1.426352,1.426352,0.05
+286,0.0331,Cholotl's Soul Core of War,Socketable / Soul Cores,0.02,-1,1.0,Cholotl's Soul Core of War,Soul Cores,currency,0.013255,0.013255,47,1.508812,1.508812,0.05
+287,0.033,Ancient Rune of Animosity,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Animosity,Runes,currency,0.013199,0.013199,1,1.515232,1.515232,0.05
+288,0.033,Idol of Oak,Socketable / Idol,0.04,-1,1.0,Idol of Oak,Ritual Omens,currency,0.026399,0.026399,6,1.515232,1.515232,0.05
+289,0.032,Thaumaturgic Flux (Level 15),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 15),Expedition Coinage & Artifacts,currency,0.105594,0.105594,1,1.562583,1.562583,0.05
+290,0.0311,Vorana's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Vorana's Saga,Expedition Coinage & Artifacts,currency,0.068498,0.068498,150,1.605898,1.605898,0.05
+291,0.0306,Concentrated Liquid Isolation,Crafted Currency / Distilled Items,1.089,-1,1.0,Concentrated Liquid Isolation,Delirium,currency,0.665482,0.665482,196,1.636408,1.636408,0.05
+292,0.03,Lesser Essence of the Infinite,Crafted Currency / Essences,0.022,-1,1.0,Lesser Essence of the Infinite,Essences,currency,0.013199,0.013199,3,1.666755,1.666755,0.05
+293,0.0295,Vilenta's Propulsion,Skill Gems & Support Gems / Lineage Support Gems,0.0297,-1,1.0,Vilenta's Propulsion,Lineage Support Gems,currency,0.017499,0.017499,14,1.697201,1.697201,0.05
+294,0.0283,The Runefather's Alloy,Crafted Currency / Alloy,0.066,-1,1.0,The Runefather's Alloy,Verisium,currency,0.037383,0.037383,10,1.765512,1.765512,0.05
+295,0.028,Uhtred's Sidereus,Socketable / Runes,0.24,-1,1.0,Uhtred's Sidereus,Runes,currency,0.134533,0.134533,20,1.783945,1.783945,0.05
+296,0.0275,idol of Ralakesh,Socketable / Idol,0.15,-1,1.0,Idol of Ralakesh,Idols,currency,0.08249,0.08249,30,1.818399,1.818399,0.05
+297,0.0273,Potent Liquid Contempt,Crafted Currency / Distilled Items,1.089,-1,1.0,Potent Liquid Contempt,Delirium,currency,0.594791,0.594791,490,1.830896,1.830896,0.05
+298,0.0264,Ancient Rune of Dueling,Socketable / Runes,0.02,-1,1.0,Ancient Rune of Dueling,Runes,currency,0.010559,0.010559,1,1.89404,1.89404,0.05
+299,0.0264,Passion of Aldur,Socketable / Runes,0.02,-1,1.0,Passion of Aldur,Runes,currency,0.010559,0.010559,1,1.89404,1.89404,0.05
+300,0.0264,Warding Rune of Salvaging,Socketable / Runes,0.02,-1,1.0,Warding Rune of Salvaging,Runes,currency,0.010559,0.010559,1,1.89404,1.89404,0.05
+301,0.0264,Farrul's Rune of Grace,Socketable / Runes,0.02,-1,1.0,Farrul's Rune of Grace,Runes,currency,0.010559,0.010559,3,1.89404,1.89404,0.05
+302,0.0261,Hayoxi's Soul Core of Heatproofing,Socketable / Soul Cores,0.03,-1,1.0,Hayoxi's Soul Core of Heatproofing,Soul Cores,currency,0.015674,0.015674,16,1.913977,1.913977,0.05
+303,0.0256,Soul Core of Cholotl,Socketable / Soul Cores,0.26,-1,1.0,Soul Core of Cholotl,Soul Cores,currency,0.133146,0.133146,12,1.952738,1.952738,0.05
+304,0.0253,Void Flux,Crafted Currency / Flux,0.132,-1,1.0,Void Flux,Expedition Coinage & Artifacts,currency,0.06674,0.06674,65,1.977816,1.977816,0.05
+305,0.0243,Soul Core of Tacati,Socketable / Soul Cores,0.15,-1,1.0,Soul Core of Tacati,Soul Cores,currency,0.072925,0.072925,204,2.056897,2.056897,0.05
+306,0.0238,Greater Rune of Nobility,Socketable / Runes,0.05,-1,1.0,Greater Rune of Nobility,Runes,currency,0.023759,0.023759,3,2.104489,2.104489,0.05
+307,0.0233,Medved's Saga,Keys ＆ Maps / Expedition Coinace &amp; Artifacts,0.11,-1,1.0,Medved's Saga,Expedition Coinage & Artifacts,currency,0.051333,0.051333,157,2.142881,2.142881,0.05
+308,0.022,Lesser Inspiration Rune,Socketable / Runes,0.03,-1,1.0,Lesser Inspiration Rune,Runes,currency,0.013199,0.013199,1,2.272848,2.272848,0.05
+309,0.022,Body Rune,Socketable / Runes,0.03,-1,1.0,Body Rune,Runes,currency,0.013199,0.013199,1,2.272848,2.272848,0.05
+310,0.0215,Thrud's Might,Socketable / Runes,0.07,-1,1.0,Thrud's Might,Runes,currency,0.03017,0.03017,14,2.320199,2.320199,0.05
+311,0.021,Blazing Flux,Crafted Currency / Flux,0.077,-1,1.0,Blazing Flux,Expedition Coinage & Artifacts,currency,0.032308,0.032308,187,2.383274,2.383274,0.05
+312,0.0206,Essence of Opulence,Crafted Currency / Essences,0.077,-1,1.0,Essence of Opulence,Essences,currency,0.031678,0.031678,3,2.430685,2.430685,0.05
+313,0.02,Essence of Thawing,Crafted Currency / Essences,0.033,-1,1.0,Essence of Thawing,Essences,currency,0.013199,0.013199,2,2.500133,2.500133,0.05
+314,0.02,Thaumaturgic Flux (Level 12),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 12),Expedition Coinage & Artifacts,currency,0.065996,0.065996,1,2.500133,2.500133,0.05
+315,0.0199,Citaqualotl's Soul Core of Foulness,Socketable / Soul Cores,0.04,-1,1.0,Citaqualotl's Soul Core of Foulness,Soul Cores,currency,0.015901,0.015901,26,2.515558,2.515558,0.05
+316,0.0176,Lesser Mind Rune,Socketable / Runes,0.03,-1,1.0,Lesser Mind Rune,Runes,currency,0.010559,0.010559,1,2.84106,2.84106,0.05
+317,0.0159,The Runebinder's Alloy,Crafted Currency / Alloy,0.187,-1,1.0,The Runebinder's Alloy,Verisium,currency,0.059329,0.059329,11,3.151893,3.151893,0.05
+318,0.0157,Soul Core of Tzamoto,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Tzamoto,Soul Cores,currency,0.021999,0.021999,18,3.181987,3.181987,0.05
+319,0.0151,Soul Core of Opiloti,Socketable / Soul Cores,0.07,-1,1.0,Soul Core of Opiloti,Soul Cores,currency,0.021119,0.021119,145,3.31457,3.31457,0.05
+320,0.015,Breath of Aldur,Socketable / Runes,0.05,-1,1.0,Breath of Aldur,Runes,currency,0.014959,0.014959,6,3.342424,3.342424,0.05
+321,0.0141,Crackling Flux,Crafted Currency / Flux,0.077,-1,1.0,Crackling Flux,Expedition Coinage & Artifacts,currency,0.021637,0.021637,158,3.558665,3.558665,0.05
+322,0.0129,Cadigan's Epiphany,Socketable / Runes,2.42,-1,1.0,Cadigan's Epiphany,Runes,currency,0.62222,0.62222,106,3.889301,3.889301,0.05
+323,0.012,Soul Core of Atmohua,Socketable / Soul Cores,0.08,-1,1.0,Soul Core of Atmohua,Soul Cores,currency,0.019233,0.019233,14,4.159461,4.159461,0.05
+324,0.0117,Simulacrum,Keys ＆ Maps / Pinnacle Boss Keys,14.091,-1,1.0,Simulacrum,Fragments,currency,3.304928,3.304928,1908,4.263633,4.263633,0.05
+325,0.0115,Astrid's Creativity,Socketable / Runes,7.25,-1,1.0,Astrid's Creativity,Runes,currency,1.671319,1.671319,139,4.337891,4.337891,0.05
+326,0.0114,Esh's Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Esh's Catalyst,Breach,currency,0.0151,0.0151,3929,4.370769,4.370769,0.05
+327,0.0112,Xoph's Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Xoph's Catalyst,Breach,currency,0.014799,0.014799,3150,4.459615,4.459615,0.05
+328,0.0111,Brutus' Brain,Skill Gems & Support Gems / Lineage Support Gems,0.5577,-1,1.0,Brutus' Brain,Lineage Support Gems,currency,0.12428,0.12428,34,4.487458,4.487458,0.05
+329,0.0101,Celestial Alloy,Crafted Currency / Alloy,3.036,-1,1.0,Celestial Alloy,Verisium,currency,0.611316,0.611316,102,4.966333,4.966333,0.05
+330,0.0095,Tul's Catalyst,Crafted Currency / Breach Catalysts,0.066,-1,1.0,Tul's Catalyst,Breach,currency,0.01258,0.01258,3046,5.246435,5.246435,0.05
+331,0.0086,Ulaman's Gaze,Socketable / Gaze,1.87,-1,1.0,Ulaman's Gaze,Abyssal Bones,currency,0.321032,0.321032,3,5.824963,5.824963,0.05
+332,0.008,Lesser Essence of Opulence,Crafted Currency / Essences,0.099,-1,1.0,Lesser Essence of Opulence,Essences,currency,0.015839,0.015839,1,6.250332,6.250332,0.05
+333,0.0071,Opiloti's Soul Core of Assault,Socketable / Soul Cores,1.12,-1,1.0,Opiloti's Soul Core of Assault,Soul Cores,currency,0.159753,0.159753,7,7.010832,7.010832,0.05
+334,0.0071,Thaumaturgic Flux (Level 13),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 13),Expedition Coinage & Artifacts,currency,0.023319,0.023319,6,7.075848,7.075848,0.05
+335,0.0064,Kulemak's Invitation,Keys ＆ Maps / Pinnacle Boss Keys,21.989,-1,1.0,Kulemak's Invitation,Fragments,currency,2.808058,2.808058,657,7.830678,7.830678,0.05
+336,0.0055,Adaptive Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Adaptive Alloy,Verisium,currency,0.104457,0.104457,50,9.161644,9.161644,0.05
+337,0.0047,Thaumaturgic Flux (Level 20),Skill Gems & Support Gems / Thaumaturgic Flux,1.98,-1,1.0,Thaumaturgic Flux (Level 20),Expedition Coinage & Artifacts,currency,0.186935,0.186935,20,10.591918,10.591918,0.05
+338,0.0039,Tecrod's Revenge,Skill Gems & Support Gems / Lineage Support Gems,0.7469,-1,1.0,Tecrod's Revenge,Lineage Support Gems,currency,0.058721,0.058721,23,12.719524,12.719524,0.05
+339,0.0033,Protective Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Protective Alloy,Verisium,currency,0.062239,0.062239,50,15.376251,15.376251,0.05
+340,0.0032,Thaumaturgic Flux (Level 14),Skill Gems & Support Gems / Thaumaturgic Flux,0.165,-1,1.0,Thaumaturgic Flux (Level 14),Expedition Coinage & Artifacts,currency,0.010559,0.010559,2,15.625832,15.625832,0.05
+341,0.0026,Liquid Despair,Crafted Currency / Distilled Items,0.462,-1,1.0,Liquid Despair,Delirium,currency,0.024028,0.024028,102,19.227353,19.227353,0.05
+342,0.0008,Expansive Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Expansive Alloy,Verisium,currency,0.014593,0.014593,86,65.577873,65.577873,0.05
+343,0.0006,Runic Alloy,Crafted Currency / Alloy,0.957,-1,1.0,Runic Alloy,Verisium,currency,0.01244,0.01244,80,76.92717,76.92717,0.05
+344,0.0005,Romira's Requital,Skill Gems & Support Gems / Lineage Support Gems,2.189,-1,1.0,Romira's Requital,Lineage Support Gems,currency,0.021045,0.021045,14,104.013975,104.013975,0.05
+345,0.0,Dominus' Grasp,Skill Gems & Support Gems / Lineage Support Gems,86.075,-1,1.0,Dominus' Grasp,Lineage Support Gems,currency,0.082031,0.082031,30,1049.292168,1049.292168,0.05
+346,0.0,Warding Rune of Nourishment,Socketable / Runes,24.29,-1,1.0,Warding Rune of Nourishment,Runes,currency,0.012759,0.012759,6,1903.706318,1903.706318,0.05
